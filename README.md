@@ -34,9 +34,9 @@
 ---
 
 ## 📅 DEVELOPMENT ROADMAP
-- [x] **Vertical Slice 2.3:** System Stability & 1.76GB Repack.
-- [ ] **Phase 2:** Final AI Stress Test & Global Lighting Bake.
-- [ ] **Phase 3:** Staged Build & Global Deployment.
+- [x] **Phase 1: Technical Foundation (V2.3)** – System Stability & 1.76GB Repack.
+- [ ] **Phase 2: Visual Polish & AI Stress Test** – Environment Calibration & Lighting Bake.
+- [ ] **Phase 3: Vertical Slice Deployment** – Final Production Build & Global Deployment.
 
 ---
 
