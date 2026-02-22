@@ -5,7 +5,7 @@
 ---
 
 ## 🛠️ THE ARCHITECTURE | DEBUG & CORE SYSTEMS
-> **V.2.3 is officially Live.** THL is no longer just a prototype—it’s the production-ready backbone for our upcoming title.
+> **V.2.3 is officially Live.** THL is no longer just a prototype—it’s the production-ready backbone of our project.
 
 ![Framework Header](Screenshot%202026-02-22%20200448.png)
 *Internal Debug Suite (V2.3) for real-time system stress testing and environment calibration.*
