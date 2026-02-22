@@ -15,7 +15,7 @@
 ![Pipeline](https://img.shields.io/badge/Pipeline-SM5-orange)
 
 ### 🏗️ SYSTEM STATS (Ref. Manifest SD-V2.3)
-* **Optimized Payload:** Effective size reduced to **1.76 GB** (Repacked). We eliminated 60GB of bloatware in favor of industrial-grade efficiency.
+* **Optimized Payload:** Effective size reduced to **1.76 GB** (Repacked). Eliminating 60GB of overhead in favor of industrial-grade efficiency.
 * **1,500+ High-Quality Assets:** Radically migrated and verified for the V2.3 production state.
 * **Advanced Shader Core:** PSO-Caching integrated for SM6/RTX targeting, ensuring visual dominance without performance drops.
 
@@ -33,18 +33,18 @@
 
 ---
 
-## 📅 THE ROADMAP (Current Directive)
+## 📅 DEVELOPMENT ROADMAP
 - [x] **Vertical Slice 2.3:** System Stability & 1.76GB Repack.
 - [ ] **Phase 2:** Final AI Stress Test & Global Lighting Bake.
 - [ ] **Phase 3:** Staged Build & Global Deployment.
 
 ---
 
-## ⚖️ AUTHORITY & TEAM
+## ⚖️ PROJECT OWNERSHIP & TEAM
 The overarching architecture, technical designs, and original intellectual property are **100% owned by Sheychx-Dynamics**.
 
-* **Lead Architect:** SheychX
-* **Consulting:** Serozno (B.) – Game Design Input.
+* **Technical Lead:** SheychX
+* **Strategic Design:** Serozno (B.)
 * **Status:** **V3.0-TRANSITION READY**
 
 ---
