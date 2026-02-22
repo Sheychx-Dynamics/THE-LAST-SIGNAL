@@ -44,7 +44,6 @@
 The overarching architecture, technical designs, and original intellectual property are **100% owned by Sheychx-Dynamics**.
 
 * **Technical Lead:** SheychX
-* **Strategic Design:** Serozno (B.)
 * **Status:** **V3.0-TRANSITION READY**
 
 ---
