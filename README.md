@@ -24,7 +24,7 @@
 ## 🎮 PROJECT: "THE LAST SIGNAL"
 *High-tier vertical mobility meets Eldritch horror and Industrial brutalism.*
 
-![AI Stress Test](Screenshot%202026-02-22%20163720.jpg)
+![AI Stress Test](Screenshot%202026-02-22%20163720.png)
 *Current Arena Stress Test: Validating StateTree-optimized enemy behaviors and pathfinding.*
 
 * **Next-Gen AI:** Implementation of the new **StateTree-optimized** enemy class for complex combat behaviors.
