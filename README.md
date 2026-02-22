@@ -12,41 +12,41 @@ Lead Architect: SheychX
 
 Tech Stack: Unreal Engine | Dedicated SM5 Pipeline
 
-🏗️ THE ARCHITECTURE
-2,100 Packages: Successfully stress-tested and verified at peak capacity.
+🏗️ THE ARCHITECTURE (Ref. Manifest SD-V2.3)
+Optimized Payload: Effective size reduced to 1.76 GB (Repacked). We eliminated 60GB of bloatware in favor of industrial-grade efficiency.
 
-Performance First: By sticking to a dedicated SM5 pipeline, we’ve ensured that the game runs smooth across a wide hardware spectrum (Optimized for RTX 2070 / i7-8750H) without losing that high-end visual punch.
+1,500+ High-Quality Assets: Radically migrated and verified for the V2.3 production state.
+
+Advanced Shader Core: PSO-Caching integrated for SM6/RTX targeting, ensuring visual dominance without performance drops.
 
 🎮 PROJECT: "THE LAST SIGNAL"
-Imagine a high-tier vertical mobility experience set in a world where Eldritch horror meets Industrial brutalism.
+High-tier vertical mobility meets Eldritch horror and Industrial brutalism.
 
-Movement & AI: We’ve finalized the state-based AI and our core vertical movement mechanics.
+Next-Gen AI: Implementation of the new StateTree-optimized enemy class for complex combat behaviors.
 
-Immersion: Featuring fully diegetic UI systems—no floating menus, just pure interaction (Trophy/Wrench/Key).
+Immersion: Fully diegetic UI systems—pure interaction (Trophy/Wrench/Key) without immersion-breaking menus.
 
-The Hub: Our 3D-Lobby for class visualization (Sprinter/Heavy) is now fully integrated and stable.
+The Hub: 3D-Lobby for class visualization (Sprinter/Heavy) is fully integrated and stable.
 
-📅 THE ROADMAP
-[x] Vertical Slice 2.3 (Current): System Stability & Package Integration.
+📅 THE ROADMAP (Current Directive)
+[x] Vertical Slice 2.3: System Stability & 1.76GB Repack.
 
-[ ] Phase 2: Massive Asset Deployment & World-Building.
+[ ] Phase 2: Final AI Stress Test & Global Lighting Bake.
 
-[ ] Phase 3: Staged Build & Final Stress-Tests.
+[ ] Phase 3: Staged Build & Global Deployment.
 
 ⚖️ AUTHORITY & TEAM
-The overarching architecture, technical designs, and original intellectual property are 100% owned by Sheychx-Dynamics. Third-party assets are used under their respective licenses (EULA).
+The overarching architecture, technical designs, and original intellectual property are 100% owned by Sheychx-Dynamics.
 
-1 Core Developer pushing the limits: SheychX
+Lead Architect: SheychX
 
-Consulting: Shout out to Serozno (B.) for the game design consult/input.
+Consulting: Serozno (B.) – Game Design Input.
 
-Debug: 2
+Status: V3.0-TRANSITION READY
 
 📬 GET IN TOUCH
-For technical inquiries or deeper insights into the Sheychx-Dynamics Framework, reach out directly:
-
 Contact: scheychkid@gmail.com
 
 Instagram: @sheychx
 
-Status: V.2.3.0-STABLE | Ready for Staged Build.
+SIGN-OFF: [V2.3-DEPLOYED] | Next Objective: FINAL AI STRESS TEST
