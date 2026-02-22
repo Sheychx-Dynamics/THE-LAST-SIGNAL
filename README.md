@@ -44,4 +44,13 @@
 The overarching architecture, technical designs, and original intellectual property are **100% owned by Sheychx-Dynamics**.
 
 * **Lead Architect:** SheychX
-* **Consulting:** S
+* **Consulting:** Serozno (B.) – Game Design Input.
+* **Status:** **V3.0-TRANSITION READY**
+
+---
+
+## 📬 GET IN TOUCH
+**Contact:** [scheychkid@gmail.com](mailto:scheychkid@gmail.com)  
+**Instagram:** [@sheychx](https://www.instagram.com/sheychx)
+
+**SIGN-OFF:** `[V2.3-DEPLOYED]` | **Next Objective:** `FINAL AI STRESS TEST`
