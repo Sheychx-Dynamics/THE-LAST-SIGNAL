@@ -5,10 +5,10 @@
 ---
 
 ## 🛠️ THE ARCHITECTURE | DEBUG & CORE SYSTEMS
-> **V.2.3 is officially Live.** THL is no longer just a prototype—it’s the production-ready backbone of our project.
+> **V.2.4 is officially Live.** THL is no longer just a prototype—it’s the production-ready backbone of our project.
 
 ![Framework Header](Screenshot%202026-02-22%20200448.png)
-*Internal Debug Suite (V2.3) for real-time system stress testing and environment calibration.*
+*Internal Debug Suite (V2.4) for real-time system stress testing and environment calibration.*
 
 ![Version](https://img.shields.io/badge/Version-2.3.0--STABLE-blue)
 ![Engine](https://img.shields.io/badge/Engine-Unreal--Engine-green)
