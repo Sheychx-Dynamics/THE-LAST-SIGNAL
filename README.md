@@ -37,7 +37,7 @@ Immersion-Focused UI: the system remains functional and accessible without break
 
 ## 📅 DEVELOPMENT ROADMAP
 - [x] **Phase 1: Technical Foundation (V2.3)** – System Stability & 1.76GB Repack.
-- [ ] **Phase 2: Visual Polish & AI Stress Test** – Environment Calibration & Lighting Bake.
+- [ ] **Phase 2: Visual Polish & AI Stress Test** – Environment Calibration.
 - [ ] **Phase 3: Vertical Slice Deployment** – Final Production Build & Global Deployment.
 
 ---
