@@ -40,6 +40,12 @@ Immersion-Focused UI: the system remains functional and accessible without break
 </p>
 
 ---
+<p align="center">
+  <img src="Screenshot 2026-02-23 155326.png" alt="The Last Signal - Scene Showcase" width="100%">
+  <br>
+  <i><b> Update (V2.4).</i>
+</p>
+
 
 ## 📅 DEVELOPMENT ROADMAP
 - [x] **Phase 1: Technical Foundation (V2.3)** – System Stability & 1.76GB Repack.
