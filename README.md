@@ -46,7 +46,7 @@ Immersion-Focused UI: the system remains functional and accessible without break
 The overarching architecture, technical designs, and original intellectual property are **100% owned by Sheychx-Dynamics**.
 
 * **Technical Lead:** SheychX
-* **Game Design Consult Inout:** Serezno
+* **Game Design Consult Input:** Serezno
 * **Status:** **V3.0-TRANSITION READY**
 
 ---
