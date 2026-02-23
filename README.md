@@ -15,7 +15,7 @@
 ![Pipeline](https://img.shields.io/badge/Pipeline-SM5-orange)
 
 ### 🏗️ SYSTEM STATS (Ref. Manifest SD-V2.4)
-* Optimized Payload: Effective size reduced to 2,46 GB (Repacked). Eliminating 60GB of overhead in favor of industrial-grade efficiency.
+* Optimized Payload: Effective size reduced to 2,46 GB (Repacked Build). Eliminating 60GB of overhead in favor of industrial-grade efficiency.
 * 1,800+ High-Quality Assets: Radically migrated and verified for the V2.4 production state.
 * Shader Core: Optimized SM5 workflow ensuring visual fidelity and high performance across all targeted systems.
 
