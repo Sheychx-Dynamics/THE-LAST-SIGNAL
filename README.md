@@ -27,9 +27,11 @@
 ![AI Stress Test](Screenshot%202026-02-22%20163720.png)
 *Current Arena Stress Test: Validating StateTree-optimized enemy behaviors and pathfinding.*
 
-* **Next-Gen AI:** Implementation of the new **StateTree-optimized** enemy class for complex combat behaviors.
-* **Immersion:** Fully diegetic UI systems—pure interaction (Trophy/Wrench/Key) without immersion-breaking menus.
-* **The Hub:** 3D-Lobby for class visualization (Sprinter/Heavy) is fully integrated and stable.
+Current Arena Stress Test: Validating StateTree-optimized agressiv enemy behaviors and pathfinding.
+
+Hybrid AI Architecture: Implementation of StateTree-optimized enemy classes combined with robust, simplified AI methods for reliable combat flow and performance scaling.
+
+Immersion-Focused UI: the system remains functional and accessible without breaking the atmospheric seal.
 
 ---
 
@@ -44,6 +46,7 @@
 The overarching architecture, technical designs, and original intellectual property are **100% owned by Sheychx-Dynamics**.
 
 * **Technical Lead:** SheychX
+* **Game Designs Input: Serezno
 * **Status:** **V3.0-TRANSITION READY**
 
 ---
