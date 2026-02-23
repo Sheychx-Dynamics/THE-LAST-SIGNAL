@@ -34,7 +34,7 @@ Hybrid AI Architecture: Implementation of StateTree-optimized enemy classes comb
 Immersion-Focused UI: the system remains functional and accessible without breaking the atmospheric seal.
 
 <p align="center">
-  <img src="Screenshot 2026-02-17 113404.jpg" alt="The Last Signal - Scene Showcase" width="100%">
+  <img src="Screenshot 2026-02-17 113404.png" alt="The Last Signal - Scene Showcase" width="100%">
   <br>
   <i><b>The Architecture of Chaos:</b> High-tier vertical mobility, industrial brutalism, and eldritch threats unified in one stable environment (V2.3).</i>
 </p>
