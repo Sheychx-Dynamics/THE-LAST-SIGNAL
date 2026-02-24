@@ -1,5 +1,9 @@
 # 🌌 Sheychx-Dynamics | Project: "The Last Signal"
+![Version](https://img.shields.io/badge/Version-2.5.0--STABLE-blue)
 
+![Engine](https://img.shields.io/badge/Engine-Unreal--Engine-green)
+
+![Pipeline](https://img.shields.io/badge/Pipeline-SM5-orange)
 ![Main Header](Screenshot%202026-02-21%20145836.png)
 
 ---
