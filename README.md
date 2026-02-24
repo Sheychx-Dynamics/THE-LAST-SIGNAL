@@ -68,4 +68,5 @@ The overarching architecture, technical designs, and original intellectual prope
 ## 📬 GET IN TOUCH
 **Contact:** [scheychkid@gmail.com](mailto:scheychkid@gmail.com)  
 **Instagram:** [@sheychx](https://www.instagram.com/sheychx)
+**DC:** sheychx
 
