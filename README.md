@@ -17,7 +17,7 @@
   <i><b>The Architecture of Chaos:</b> High-tier vertical mobility, industrial brutalism, and eldritch threats unified in one stable environment (V2.5).</i>
 </p>
 
-- **Hybrid AI Architecture:** Implementation of StateTree-optimized enemy classes. **V2.5 Milestone:** Confirmed fluid performance with 30+ simultaneous AI agents.
+- **Hybrid AI Architecture:** Implementation of StateTree-optimized enemy classes. **V2.5 Milestone:** Confirmed fluid performance with 50+ simultaneous AI agents.
 - **Immersion-Focused UI:** The system remains functional and accessible without breaking the atmospheric seal.
 
 ![AI Stress Test](Screenshot%202026-02-22%20163720.png)
