@@ -65,5 +65,3 @@ The overarching architecture, technical designs, and original intellectual prope
 **Contact:** [scheychkid@gmail.com](mailto:scheychkid@gmail.com)  
 **Instagram:** [@sheychx](https://www.instagram.com/sheychx)
 
-**SIGN-OFF:**
-Sheychx AI Consult at Sheychx Dynamics Development
