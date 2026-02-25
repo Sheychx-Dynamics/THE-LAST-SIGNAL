@@ -35,5 +35,3 @@ To ensure global stability, we are currently collecting performance data from va
 * **Access:**
 
 DC @Sheychx
-scheychkid@gmail.com
-https://www.instagram.com/sheychx
