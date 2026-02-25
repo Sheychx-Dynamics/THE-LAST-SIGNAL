@@ -1,7 +1,7 @@
 # 🌌 Sheychx-Dynamics | Project: "The Last Signal"
-![Version](https://img.shields.io/badge/Version-2.5.0--STABLE-blue)
+![Version](https://img.shields.io/badge/Version-2.6.0--MILESTONE-blue)
 ![Engine](https://img.shields.io/badge/Engine-Unreal--Engine-green)
-![Pipeline](https://img.shields.io/badge/Pipeline-SM5-orange)
+![Pipeline](https://img.shields.io/badge/Pipeline-SM6%20%2F%20DX12-orange)
 ![Main Header](Screenshot%202026-02-21%20145836.png)
 
 ---
@@ -12,27 +12,26 @@
 <p align="center">
   <img src="Screenshot 2026-02-24 221808.png" alt="The Last Signal - Scene Showcase" width="100%">
   <br>
-  <i><b>The Architecture of Chaos:</b> High-tier vertical mobility, industrial brutalism, and eldritch threats unified in one stable environment (V2.5).</i>
+  <i><b>The Architecture of Chaos:</b> High-tier vertical mobility and optimized AI agents unified in the V2.6 Shipping Build.</i>
 </p>
 
-- **Hybrid AI Architecture:** Implementation of StateTree-optimized enemy classes combined with the custom **Simplicity AI** framework. 
-- **V2.5 Milestone:** Confirmed fluid performance with **50+ simultaneous AI agents** on mid-tier mobile hardware.
-- **Immersion-Focused UI:** The system remains functional and accessible without breaking the atmospheric seal.
+- **V2.6 Hybrid AI (The "Lazy AI" Method):** Optimized for high-density encounters using a decoupled 5s-logic-tick throttled system.
+- **Physical Overlap Overrides:** Instant AI reactivity via physics-based triggers, bypassing idle latency for seamless combat engagement.
+- **Shipping Build Milestone:** Confirmed **30-40 FPS with 30+ active AI agents** running on **RTX 2070 Mobile** hardware.
+- **Persistent Logic:** Custom recovery loops to handle MoveTo-failures and NavMesh crowding without CPU spikes.
 
 ![AI Stress Test](Screenshot%202026-02-22%20163720.png)
-*Current Arena Stress Test: Validating StateTree-optimized enemy behaviors and pathfinding.*
+*Current Arena Stress Test: Validating Architecture V2.6 in standalone shipping environments.*
 
 ---
 
-## 🏗️ THE ARCHITECTURE | DEBUG & CORE SYSTEMS
-> **V.2.5 is officially Live.** THL is no longer just a prototype—it’s the production-ready backbone of the Sheychx-Dynamics Core.
+## 🏗️ THE ARCHITECTURE | V2.6 PERFORMANCE DATA
+> **V2.6 is Live.** This update shifts from editor-based prototyping to standalone shipping build stability.
 
-### 🧪 V2.5 TESTING & PERFORMANCE BENCHMARK
-To ensure global stability, we are currently collecting performance data from various hardware configurations.
+### 🧪 PERFORMANCE BENCHMARK (TEST: 3)
+* **Status:** Milestone Reached – Stable Standalone Build.
+* **Target Hardware:** Optimized for Mobile Chipsets (Laptop/Mid-Range).
+* **Current Data:** 30-40 FPS (Min: 27 FPS during heavy overlap spikes).
+* **Next Goal:** Scaling to 50+ agents while maintaining sub-30ms frame times.
 
-* **Status:** Stable V2.5 Build available for technical review.
-* **Target Hardware:** We are specifically looking for feedback from **RTX 20-series and 30-series** users.
-* **Access:**
-
-DC @sheychx
-
+**Access & Technical Review:** DC @sheychx
