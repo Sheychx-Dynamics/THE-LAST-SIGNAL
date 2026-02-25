@@ -34,4 +34,5 @@ To ensure global stability, we are currently collecting performance data from va
 * **Target Hardware:** We are specifically looking for feedback from **RTX 20-series and 30-series** users.
 * **Access:**
 
-DC @Sheychx
+DC @sheychx
+
