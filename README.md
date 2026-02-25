@@ -33,3 +33,7 @@ To ensure global stability, we are currently collecting performance data from va
 * **Status:** Stable V2.5 Build available for technical review.
 * **Target Hardware:** We are specifically looking for feedback from **RTX 20-series and 30-series** users.
 * **Access:**
+
+DC @Sheychx
+scheychkid@gmail.com
+https://www.instagram.com/sheychx
