@@ -25,7 +25,7 @@
 * **V2.6 Hybrid AI (The "Lazy AI" Method):** Optimized for high-density encounters using a decoupled 5s-logic-tick throttling system.
 * **Physical Overlap Overrides:** Instant AI reactivity via physics-based triggers—bypassing idle latency for seamless combat engagement.
 * **Attachment Stability:** Standardization of Attach-Rules (Location: Snap to Target | Rotation/Scale: Keep World).
-* **Lean-State Repository:** 2.46 GB total size maintained via strict Git-Migration-Protokoll and asset hygiene.
+* **SD Core - Build <3.0 Gb | Project < 5.0 Gb
 
 ---
 
