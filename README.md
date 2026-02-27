@@ -26,8 +26,7 @@
 * **IK-Precision Engine:** Proprietary Translation-Retargeting-Fix for UE 5.7. Procedural animations via 'Skeleton' protocol to eliminate effector drift.
 * **V2.7 Hybrid AI (The "Lazy AI" Method):** Optimized for high-density encounters using a decoupled 5s-logic-tick throttling system.
 * **Physical Overlap Overrides:** Instant AI reactivity via physics-based triggers—bypassing idle latency for seamless combat engagement.
-* **Attachment Stability:** Standardization of Attach-Rules (Location: Snap to Target | Rotation/Scale: Keep World).
-* **SD Core - Build <3.0 Gb | Project < 5.0 Gb
+* **SD Core - Build <3.0 Gb | Project File Sice < 5.0 Gb | Project Raw File Sice < 3.0 Gb
 
 ---
 
