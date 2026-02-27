@@ -27,7 +27,7 @@
 * **V2.7 Hybrid AI (The "Lazy AI" Method):** Optimized for high-density encounters using a decoupled 5s-logic-tick throttling system.
 * **Physical Overlap Overrides:** Instant AI reactivity via physics-based triggers—bypassing idle latency for seamless combat engagement.
 * **SD Core - Build <3.0 Gb | Project File Sice < 5.0 Gb | Project Raw File Sice < 3.0 Gb
-
+* ** Debug Build Size 2.7 == 2.75 Gb
 ---
 
 ## 🏗️ PERFORMANCE DATA & BENCHMARKS
