@@ -1,5 +1,5 @@
 # 🌌 SheychX Dynamics | Project: "The Last Signal"
-![Version](https://img.shields.io/badge/Version-2.6.0--MILESTONE-blue)
+![Version](https://img.shields.io/badge/Version-2.7.0--MILESTONE-blue)
 ![Engine](https://img.shields.io/badge/Engine-Unreal--Engine--5.7--Optimized-green)
 ![Pipeline](https://img.shields.io/badge/Pipeline-SM5%20%2F%20DX11-blue)
 ![Status](https://img.shields.io/badge/Status-STABLE%20%2F%20DOMINANT-red)
@@ -14,15 +14,17 @@
 <p align="center">
   <img src="Screenshot 2026-02-24 221808.png" alt="The Last Signal - Scene Showcase" width="100%">
   <br>
-  <i><b>The Architecture of Chaos:</b> High-tier vertical mobility and optimized AI agents unified in the V2.6 Shipping Build.</i>
+  <i><b>The Architecture of Chaos:</b> High-tier vertical mobility and optimized AI agents unified in the V2.7
+    Shipping Build.</i>
 </p>
 
-### ⚙️ CORE ARCHITECTURE (V2.6-ADVANCED)
-> **Manifest ID:** SD-V2.6-AUTHORITY  
+### ⚙️ CORE ARCHITECTURE (V2.7-ADVANCED)
+> **Manifest ID:** SD-V2.7-AUTHORITY (27.02.2026)
 > **Philosophy:** "Solve what others fear, Scale what others can't."
+> https://www.reddit.com/r/UnrealEngine5/comments/1rft19v/collab_ue_57_performance_project_the_last_signal/
 
 * **IK-Precision Engine:** Proprietary Translation-Retargeting-Fix for UE 5.7. Procedural animations via 'Skeleton' protocol to eliminate effector drift.
-* **V2.6 Hybrid AI (The "Lazy AI" Method):** Optimized for high-density encounters using a decoupled 5s-logic-tick throttling system.
+* **V2.7 Hybrid AI (The "Lazy AI" Method):** Optimized for high-density encounters using a decoupled 5s-logic-tick throttling system.
 * **Physical Overlap Overrides:** Instant AI reactivity via physics-based triggers—bypassing idle latency for seamless combat engagement.
 * **Attachment Stability:** Standardization of Attach-Rules (Location: Snap to Target | Rotation/Scale: Keep World).
 * **SD Core - Build <3.0 Gb | Project < 5.0 Gb
