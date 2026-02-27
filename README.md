@@ -1,6 +1,6 @@
 # 🌌 SheychX Dynamics | Project: "The Last Signal"
 ![Version](https://img.shields.io/badge/Version-2.7.0--MILESTONE-blue)
-![Engine](https://img.shields.io/badge/Engine-Unreal--Engine--5.7--Optimized-green)
+![Engine](https://img.shields.io/badge/Engine-Unreal--Engine--5.7.2--Optimized-green)
 ![Pipeline](https://img.shields.io/badge/Pipeline-SM5%20%2F%20DX11-blue)
 ![Status](https://img.shields.io/badge/Status-STABLE%20%2F%20DOMINANT-red)
 
