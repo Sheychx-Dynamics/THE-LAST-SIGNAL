@@ -46,7 +46,7 @@
 ---
 
 ## 🛠️ RECRUITMENT & TECHNICAL AUTHORITY
-**SheychX Dynamics** is opening strictly limited slots for a disciplined core team. Professionalism is binary. We seek contributors, not spectators.
+**SheychX Dynamics** is opening strictly limited slots for a disciplined core team. Professionalism is binary.
 
 DC @sheychx
 
