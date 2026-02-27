@@ -49,5 +49,5 @@
 **SheychX Dynamics** is opening strictly limited slots for a disciplined core team. Professionalism is binary. We seek contributors, not spectators.
 
 DC @sheychx
+
 [![Reddit Profile](https://img.shields.io/badge/Reddit-Lead--Architect-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/GuitarSome5123/)
-[![Technical Thread](
