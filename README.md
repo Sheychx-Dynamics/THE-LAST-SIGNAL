@@ -5,10 +5,10 @@
 
 ## 📁 SYSTEM MANIFEST | V2.7-POWER-SCALED
 **DOCUMENT-ID:** SD-V2.7-AUTHORITY-EXTENDED  
-**SYSTEM-TIME:** 28. FEBRUAR 2026 – 01:21 VIENNA TIME  
+**SYSTEM-TIME:** 28. FEBRUAR 2026 – 1:33 Berlin/Vienna Time
 **STATUS:** [STABLE / SCALING] – UE 5.7.2 HARDCRYPTED
 
-<img width="1919" height="1075" alt="image" src="https://github.com/user-attachments/assets/c38a080f-e09b-4060-a3ea-100e182493c3" /># 🌌 SheychX Dynamics | Project: "The Last Signal"
+# 🌌 SheychX Dynamics | Project: "The Last Signal"
 
 ## 🎮 PROJECT: "THE LAST SIGNAL"
 *High-tier vertical mobility meets Eldritch horror and Industrial brutalism.*
@@ -16,36 +16,43 @@
 ![Main Header](Screenshot%202026-02-21%20145836.png)
 
 ### ⚙️ CORE ARCHITECTURE (V2.7-ADVANCED)
-> **Manifest ID:** SD-V2.7-AUTHORITY (Update 27.02.2026)
+> **Build ID:** SD-V2.7 (27.02.2026)
+
+#### 📁 Technical Evolution & Version Log
+* **V0.1 – V0.9** (03.02.2026 – 09.02.2026): Initial Prototype Inception and iterative framework testing.
+* **V1.0 – V1.9** (11.02.2026 – 17.02.2026): Milestone Expansion and Framework Stabilization.
+* **V2.0 – V2.2** (18.02.2026 – 21.02.2026): Architecture Baseline and TLS Integration with Debug Branching.
+* **V2.5** (24.02.2026): Establishment of the V2.5 Authority documentation standard.
+* **V2.6** (25.02.2026): Integration of the IK-Precision Engine (Translation-Retargeting-Fix for UE 5.7).
+* **V2.7** (27.02.2026): HardCrypted IoStore Phase. Implementation of AES-256 asset encryption.
+
 > **Philosophy:** "Solve what others fear, Scale what others can't."
 > https://www.reddit.com/r/UnrealEngine5/comments/1rft19v/collab_ue_57_performance_project_the_last_signal/
 
-* **IK-Precision Engine:** Proprietary Translation-Retargeting-Fix for UE 5.7. Procedural animations via 'Skeleton' protocol to eliminate effector drift.
-* **V2.7 Hybrid AI (The "Lazy AI" Method):** Optimized for high-density encounters using a decoupled 5s-logic-tick throttling system.
-* **Physical Overlap Overrides:** Instant AI reactivity via physics-based triggers—bypassing idle latency for seamless combat engagement.
-* **SD Core - Build <3.0 Gb | Project File Sice < 5.0 Gb | Project Raw File Sice < 3.0 Gb
-* ** Debug Build Size THL V2.7 == 2.75 Gb
+* **IK-Precision Engine:** Proprietary Translation-Retargeting-Fix for UE 5.7. Procedural animations via 'Skeleton' protocol.
+* **V2.7 Hybrid AI (The "Lazy AI" Method):** Optimized for high-density encounters using a decoupled logic-tick throttling system.
+* **Physical Overlap Overrides:** Instant AI reactivity via physics-based triggers—bypassing idle latency.
+* **SD Core Metrics:** Build < 3.0 GB | Project File Size < 5.0 GB | Project Raw File Size < 3.0 GB
+* **Debug Build Size THL V2.7:** 2.75 GB
+
 ---
 
 ## 🏗️ PERFORMANCE DATA & BENCHMARKS
-> **Status:** Current focus shifted from Editor prototyping to Standalone Shipping Build stability.
-
-![AI Stress Test](Screenshot%202026-02-22%20163720.png)
-*Current Arena Stress Test: Validating Architecture V2.6 in standalone shipping environments.*
+> **Status:** Architecture allows for playable environments; optimization for consistent 30+ FPS baseline is ongoing.
 
 ### 🧪 BENCHMARK PROTOCOL (TEST: 3)
-| Metric | Value | Hardware Context |
+| Metric | Value | Status |
 | :--- | :--- | :--- |
-| **Active Agents** | 30+ High-Performance Agents | Validated |
-| **Average FPS** | 35 - 40 FPS | RTX 2070 Mobile |
-| **Minimum FPS** | 27 FPS (Heavy Overlap) | RTX 2070 Mobile |
-| **Logic Recovery** | < 15ms CPU Response | Custom Loop Recovery |
+| **Active Agents** | 30 - 50 High-Performance Agents | [OPERATIONAL] |
+| **Average FPS** | Variable / Playable | [OPTIMIZING] |
+| **Hardware Context** | RTX 2070 Mobile | [BASELINE] |
+| **Logic Recovery** | < 15ms CPU Response | [VALIDATED] |
 
-⚡ Performance & Compatibility
-Adaptive Build System: Compiled using .NET 8.0 SDK and MSVC 14.50 for maximum instruction-set efficiency.
-Modern Containerization: Utilizing the Zen File Manifest and IoStore architecture for near-instantaneous asset streaming.
-OS Compliance: Fully validated on Windows 11 (25H2) [Build 10.0.26200], ensuring compatibility with the latest kernel-level performance optimizations.
-Encryption Standard: AES-256 HardCrypted asset protection for secured technical logic.
+### ⚡ Performance & Compatibility
+* **Adaptive Build System:** Compiled using .NET 8.0 SDK and MSVC 14.50 for instruction-set efficiency.
+* **Modern Containerization:** Utilizing the Zen File Manifest and IoStore architecture for asset streaming.
+* **OS Compliance:** Fully validated on Windows 11 (25H2) [Build 10.0.26200].
+* **Encryption Standard:** AES-256 HardCrypted asset protection for secured technical logic.
 
 ---
 
