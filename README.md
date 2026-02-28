@@ -5,8 +5,10 @@
 
 ## 📁 SYSTEM MANIFEST | V2.7-POWER-SCALED
 **DOCUMENT-ID:** SD-V2.7-AUTHORITY-EXTENDED  
-**SYSTEM-TIME:** 28. FEBRUAR 2026 – 1:33 Berlin/Vienna Time
+**SYSTEM-TIME:** 28. FEBRUAR 2026 – 01:33 BERLIN/VIENNA TIME  
 **STATUS:** [STABLE / SCALING] – UE 5.7.2 HARDCRYPTED
+
+<img width="1919" height="1075" alt="Current System Manifest" src="https://github.com/user-attachments/assets/c38a080f-e09b-4060-a3ea-100e182493c3" />
 
 # 🌌 SheychX Dynamics | Project: "The Last Signal"
 
@@ -39,6 +41,9 @@
 
 ## 🏗️ PERFORMANCE DATA & BENCHMARKS
 > **Status:** Architecture allows for playable environments; optimization for consistent 30+ FPS baseline is ongoing.
+
+![AI Stress Test](Screenshot%202026-02-22%20163720.png)
+*Current Arena Stress Test: Validating Architecture V2.7 scaling in standalone shipping environments.*
 
 ### 🧪 BENCHMARK PROTOCOL (TEST: 3)
 | Metric | Value | Status |
