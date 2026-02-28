@@ -1,4 +1,4 @@
-# 🌌 SheychX Dynamics | Project: "The Last Signal"
+<img width="1919" height="1075" alt="image" src="https://github.com/user-attachments/assets/c38a080f-e09b-4060-a3ea-100e182493c3" /># 🌌 SheychX Dynamics | Project: "The Last Signal"
 ![Version](https://img.shields.io/badge/Version-2.7.0--MILESTONE-blue)
 ![Engine](https://img.shields.io/badge/Engine-Unreal--Engine--5.7.2--Optimized-green)
 ![Pipeline](https://img.shields.io/badge/Pipeline-SM5%20%2F%20DX11-blue)
@@ -43,6 +43,12 @@
 | **Average FPS** | 35 - 40 FPS | RTX 2070 Mobile |
 | **Minimum FPS** | 27 FPS (Heavy Overlap) | RTX 2070 Mobile |
 | **Logic Recovery** | < 15ms CPU Response | Custom Loop Recovery |
+
+⚡ Performance & Compatibility
+Adaptive Build System: Compiled using .NET 8.0 SDK and MSVC 14.50 for maximum instruction-set efficiency.
+Modern Containerization: Utilizing the Zen File Manifest and IoStore architecture for near-instantaneous asset streaming.
+OS Compliance: Fully validated on Windows 11 (25H2) [Build 10.0.26200], ensuring compatibility with the latest kernel-level performance optimizations.
+Encryption Standard: AES-256 HardCrypted asset protection for secured technical logic.
 
 ---
 
