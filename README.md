@@ -11,13 +11,6 @@
 
 ![Main Header](Screenshot%202026-02-21%20145836.png)
 
-<p align="center">
-  <img src="Screenshot 2026-02-24 221808.png" alt="The Last Signal - Scene Showcase" width="100%">
-  <br>
-  <i><b>The Architecture of Chaos:</b> High-tier vertical mobility and optimized AI agents unified in the V2.7
-    Shipping Build.</i>
-</p>
-
 ### ⚙️ CORE ARCHITECTURE (V2.7-ADVANCED)
 > **Manifest ID:** SD-V2.7-AUTHORITY (Update 27.02.2026)
 > **Philosophy:** "Solve what others fear, Scale what others can't."
