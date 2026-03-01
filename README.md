@@ -1,11 +1,11 @@
 ![Version](https://img.shields.io/badge/Version-2.7.0--MILESTONE-blue)
 ![Engine](https://img.shields.io/badge/Engine-Unreal--Engine--5.7.2--Optimized-green)
-![Pipeline](https://img.shields.io/badge/Pipeline-SM5%20%2F%20DX11-blue)
+![Pipeline](https://img.shields.io/badge/Pipeline-SM6%20%2F%20DX12-blue)
 ![Status](https://img.shields.io/badge/Status-STABLE%20%2F%20DOMINANT-red)
 
 ## 📁 SYSTEM MANIFEST | V2.7-POWER-SCALED
-ID: SD-V2.7-AUTHORITY-EXTENDED
-TIME: 28.02.2026 | 13:45
+ID: SD-V2.8-AUTHORITY-EXTENDED
+TIME: 01.03.2026 | 08:05 UTC +1
 
 VALIDATION: 🏃‍♂️ [ 0 ERRORS | 0 WARNINGS ] 🚀
 
