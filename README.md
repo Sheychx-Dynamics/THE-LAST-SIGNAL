@@ -1,4 +1,4 @@
-![Version](https://img.shields.io/badge/Version-2.7.0--MILESTONE-blue)
+![Version](https://img.shields.io/badge/Version-2.8.0-blue)
 ![Engine](https://img.shields.io/badge/Engine-Unreal--Engine--5.7.2--Optimized-green)
 ![Pipeline](https://img.shields.io/badge/Pipeline-SM6%20%2F%20DX12-blue)
 ![Status](https://img.shields.io/badge/Status-STABLE%20%2F%20DOMINANT-red)
