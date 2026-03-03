@@ -42,10 +42,10 @@ ENGINE: UE 5.7.2 [STABLE / SCALING]
 * **IK-Precision Engine:** Proprietary Translation-Retargeting-Fix for UE 5.7. Procedural animations via 'Skeleton' protocol.
 * **V3.0 Hybrid AI (The "Lazy AI" Method):** Optimized for high-density encounters using a decoupled logic-tick throttling system.
 * **Physical Overlap Overrides:** Instant AI reactivity via physics-based triggers—bypassing idle latency.
-* **SD Core Metrics:** Build < 3.0 GB | Project File Size < 5.0 GB | Project Raw File Size < 3.0 GB
-* **Debug Build Size THL V2.7:** 2.75 GB
-* * **Debug Build Size THL V3.0:** <- 1.0 GB Lean State(3 Types of Enemies Included full Character abilities fight/swim/ 3 Rifles 1 Shotgun)
-  * * * **Debug Build Size THL V3.0:** <- 3.0 GB (Just with more world Static Meshes) 
+* **SD Core Metrics:** Build < 1.0 GB(1k textures) | Project File Size < 5.0 GB | Project Raw File Size < 3.0 GB
+* **Debug Build Size THL V2.7:** 2.75 GB 2k textures
+* * **Debug Build Size THL V3.0:** <- 1.0 GB(1k textures) Lean State(3 Types of Enemies Included full Character abilities fight/swim/ 3 Rifles 1 Shotgun)
+  * * * **Debug Build Size THL V3.0:** <- 3.0 GB (2k textures) 
 
 ---
 
