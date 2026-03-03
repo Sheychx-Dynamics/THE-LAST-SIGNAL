@@ -73,6 +73,15 @@ ENGINE: UE 5.7.2 [STABLE / SCALING]
 
 ## 🛠️ RECRUITMENT & TECHNICAL AUTHORITY
 **SheychX Dynamics** is opening strictly limited slots for a disciplined core team. Professionalism is binary.
+### 4. RECRUITMENT STATUS (V2.7 - V3.0)
+
+- Map-Builders: 1 Slot (Strict constraint).
+- Game Design: 1 Slot (Combat balancing / AI behavior).
+- VFX: 1 Slot.
+- Animation: 1 Slot.
+- Infrastructure: 1 Slot (Discord/Repo).
+- Debugging: 2 Slots (QA / Edge-cases).
+- Audio: 1 Slot (SFX).
 
 DC @sheychx
 
