@@ -12,7 +12,7 @@ VALIDATION: 🏃‍♂️ [ 0 ERRORS | 0 WARNINGS ] 🚀
 
 ENGINE: UE 5.7.2 [STABLE / SCALING]
 
-<img width="1919" height="1075" alt="Current System Manifest" src="https://github.com/user-attachments/assets/c38a080f-e09b-4060-a3ea-100e182493c3" />
+<img width="1919" height="1075" alt="Current System Manifest" src="Screenshot 2026-03-04 071850.png" />
 
 # 🌌 SheychX Dynamics | Project: "The Last Signal"
 
