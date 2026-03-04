@@ -34,7 +34,7 @@ ENGINE: UE 5.7.2 [STABLE / SCALING]
 * **V3.0** (01.03.2026)(MEZ+1)(23:00): Stable / Ship Debug Dev.
 
 
-![Settings/Debug Options V3.0.5](Screenshot%2026-03-04%071850.png)
+[](Screenshot 2026-03-04 071850.png)
 
 > **Philosophy:** "Solve what others fear, Scale what others can't."
 > https://www.reddit.com/r/UnrealEngine5/comments/1rft19v/collab_ue_57_performance_project_the_last_signal/
