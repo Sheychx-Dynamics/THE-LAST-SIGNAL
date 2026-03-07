@@ -16,8 +16,8 @@ ENGINE: UE 5.7.2 [STABLE / SCALING]
 ## 🎮 PROJECT: "THE LAST SIGNAL"
 *High-tier vertical mobility meets Eldritch horror and Industrial brutalism.*
 
-### ⚙️ CORE ARCHITECTURE (V3.0-ADVANCED)
-> **Build ID:** SD-V3.0 (03.03.2026)
+### ⚙️ CORE ARCHITECTURE (V3.2-ADVANCED)
+> **Build ID:** SD Core-V3.2 (07.03.2026)
 
 #### 📁 Technical Evolution & Version Log
 * **V0.1 – V0.9** (03.02.2026 – 09.02.2026): Initial Prototype Inception and iterative framework testing.
@@ -87,4 +87,3 @@ DC @sheychx
 
 <img width="1919" height="1075" alt="Current System Manifest" src="Screenshot 2026-03-06 200858.png" />
 
-<img width="1919" height="1075" alt="Current System Manifest" src="Screenshot 2026-03-06 200858.png" />
