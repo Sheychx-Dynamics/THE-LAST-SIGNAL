@@ -11,10 +11,6 @@ TIME: 07.03.2026 | 20:20 UTC +1
 
 ENGINE: UE 5.7.2 [STABLE / SCALING]
 
-<img width="1919" height="1075" alt="Current System Manifest" src="Screenshot 2026-02-28 011113.png" />
-
-<img width="1919" height="1075" alt="Current System Manifest" src="Screenshot 2026-03-06 200858.png" />
-
 # 🌌 SheychX Dynamics | Project: "The Last Signal"
 
 ## 🎮 PROJECT: "THE LAST SIGNAL"
@@ -86,3 +82,9 @@ ENGINE: UE 5.7.2 [STABLE / SCALING]
 DC @sheychx
 
 [![Reddit Profile](https://img.shields.io/badge/Reddit-Lead--Architect-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/GuitarSome5123/)
+
+<img width="1919" height="1075" alt="Current System Manifest" src="Screenshot 2026-02-28 011113.png" />
+
+<img width="1919" height="1075" alt="Current System Manifest" src="Screenshot 2026-03-06 200858.png" />
+
+<img width="1919" height="1075" alt="Current System Manifest" src="Screenshot 2026-03-06 200858.png" />
