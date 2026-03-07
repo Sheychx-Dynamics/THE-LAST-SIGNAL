@@ -52,9 +52,6 @@ ENGINE: UE 5.7.2 [STABLE / SCALING]
 ## 🏗️ PERFORMANCE DATA & BENCHMARKS
 > **Status:** Architecture allows for playable environments; optimization for consistent 30+ FPS baseline is ongoing.
 
-![AI Stress Test](Screenshot%202026-02-22%20163720.png)
-*Current Arena Stress Test: Validating Architecture V2.7 scaling in standalone shipping environments.*
-
 ### 🧪 BENCHMARK PROTOCOL (TEST: 3)
 | Metric | Value | Status |
 | :--- | :--- | :--- |
@@ -89,3 +86,8 @@ DC @sheychx
 
 <img width="1919" height="1075" alt="Current System Manifest" src="Screenshot 2026-03-06 200858.png" />
 
+pre test
+https://www.reddit.com/r/UnrealEngine5/comments/1re0po6/testing_30_ai_agents_on_my_rtx_2070_laptop/
+
+revshare
+https://www.reddit.com/r/INAT/comments/1rn2yhw/revshare_team_of_7_scaling_the_dominant/
