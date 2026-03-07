@@ -22,10 +22,9 @@ Latest function test(v3.1): https://www.reddit.com/user/GuitarSome5123/comments/
 * **V2.7** (27.02.2026): HardCrypted IoStore Phase. Implementation of AES-256 asset encryption.
 * **V2.8** (28.02.2026): Massive Core optimization.
 * **V2.9** (01.03.2026): Core == 0(ZERO) Bug Policy.
-* **V3.0** (01.03.2026)(MEZ+1)(23:00): Stable / Ship Debug Dev.
-* **V3.0.5** (04.03.2026)(MEZ+1)(00:00). Core
+* **V3.0** (01.03.2026)(MEZ+1)(23:00): Stable / Ship/Debug/Dev.
+* **V3.0.5** (04.03.2026)(MEZ+1)(00:00). SM5->SM6Core & intern
 * **V3.1** (06.03.2026)(MEZ+1)(00:00). driveable Ship + Ocean integration (concept validation)
-* 
 * **V3.2** (07.03.2026)(MEZ+1)(00:00). Update 4 maps, a bunch of controls, and debug options (Ability Tree integration).
 
 > **Philosophy:** "Solve what others fear, Scale what others can't."
