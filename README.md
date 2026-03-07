@@ -78,8 +78,8 @@ DC @sheychx
 
 <img width="1919" height="1075" alt="Current System Manifest" src="Screenshot 2026-03-06 200858.png" />
 
-pre test
+pre tests
 https://www.reddit.com/r/UnrealEngine5/comments/1re0po6/testing_30_ai_agents_on_my_rtx_2070_laptop/
 
-revshare
+collab/revshare
 https://www.reddit.com/r/INAT/comments/1rn2yhw/revshare_team_of_7_scaling_the_dominant/
