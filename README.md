@@ -1,5 +1,6 @@
 
-![Version](https://img.shields.io/badge/Version-3.2-blue)
+![Team](https://img.shields.io/badge/Sheychx-Dynamics-Core-Team-7-blue)
+![Version](https://img.shields.io/badge/Version-3.2.0-blue)
 ![Engine](https://img.shields.io/badge/Engine-Unreal--Engine--5.7.2--Optimized-green)
 ![Pipeline](https://img.shields.io/badge/Pipeline-SM6%20%2F%20DX12-blue)
 ![Status](https://img.shields.io/badge/Status-STABLE%20%2F%20DOMINANT-red)
@@ -76,7 +77,7 @@ ENGINE: UE 5.7.2 [STABLE / SCALING]
 
 ## 🛠️ RECRUITMENT & TECHNICAL AUTHORITY
 **SheychX Dynamics** is opening strictly limited slots for a disciplined core team. Professionalism is binary.
-### 4. RECRUITMENT STATUS (V2.7 - V3.0)
+### 4. RECRUITMENT STATUS (V2.7 - V3.2)
 
 - Map-Builders: 1 Slot (Strict constraint).
 - Game Design: 1 Slot (Combat balancing / AI behavior).
