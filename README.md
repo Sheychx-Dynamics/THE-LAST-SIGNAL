@@ -31,6 +31,7 @@ Latest function test(v3.1): https://www.reddit.com/user/GuitarSome5123/comments/
 > https://www.reddit.com/r/UnrealEngine5/comments/1rft19v/collab_ue_57_performance_project_the_last_signal/
 
 * **IK-Precision Engine:** Proprietary Translation-Retargeting-Fix for UE 5.7. Procedural animations via 'Skeleton' protocol.
+https://www.reddit.com/r/UnrealEngine5/comments/1rf66ax/comment/o7hni6p/?context=3
 * **V3.0 Hybrid AI (The "Lazy AI" Method):** Optimized for high-density encounters using a decoupled logic-tick throttling system.
 * **Physical Overlap Overrides:** Instant AI reactivity via physics-based triggers—bypassing idle latency.
 * **SD Core Metrics:** Build < 1.0 GB(1k textures) | Project File Size < 5.0 GB | Project Raw File Size < 3.0 GB
