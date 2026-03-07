@@ -74,10 +74,6 @@ DC @sheychx
 
 [![Reddit Profile](https://img.shields.io/badge/Reddit-Lead--Architect-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/GuitarSome5123/)
 
-<img width="1919" height="1075" alt="Current System Manifest" src="Screenshot 2026-02-28 011113.png" />
-
-<img width="1919" height="1075" alt="Current System Manifest" src="Screenshot 2026-03-06 200858.png" />
-
 pre tests
 https://www.reddit.com/r/UnrealEngine5/comments/1re0po6/testing_30_ai_agents_on_my_rtx_2070_laptop/
 
