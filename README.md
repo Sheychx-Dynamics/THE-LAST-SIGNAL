@@ -5,6 +5,8 @@
 ![Pipeline](https://img.shields.io/badge/Pipeline-SM6%20%2F%20DX12-blue)
 ![Status](https://img.shields.io/badge/Status-STABLE%20%2F%20DOMINANT-red)
 
+Latest function test: https://www.reddit.com/user/GuitarSome5123/comments/1rladcz/sdv31_testing_some_functions/
+
 ## 📁 SYSTEM MANIFEST | V3.2-POWER-SCALED
 ID: SD-V3.2-AUTHORITY-EXTENDED
 TIME: 07.03.2026 | 20:20 UTC +1
