@@ -1,5 +1,5 @@
 ![Lead](https://img.shields.io/badge/Lead_Architect-ScheychX-D4AF37?style=for-the-badge)
-![Team](https://img.shields.io/badge/SheychX/Dynamics-7_Team_Professionals-D4AF37?style=for-the-badge&logo=shippable)
+![Team](https://img.shields.io/badge/SheychX_Dynamics-Team_7_Professionals-D4AF37?style=for-the-badge&logo=shippable)
 
 ![Version](https://img.shields.io/badge/Version-3.2.0-blue)
 ![Engine](https://img.shields.io/badge/Engine-Unreal--Engine--5.7.2--Optimized-green)
