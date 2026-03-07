@@ -29,7 +29,7 @@
 * **V3.0** (01.03.2026): Stable Release (Ship/Debug/Dev).
 * **V3.0.5** (04.03.2026): SM5 ➔ **SM6 Core** Transition.
 * **V3.1** (06.03.2026): Drivable Ship + Ocean concept validation.
-* **V3.2** (07.03.2026): Quad-Map Update, Ability Tree integration & Debug Expansion.
+* **V3.2** (07.03.2026): Map Update, Ability Tree integration / Expansion.
 
 ---
 
