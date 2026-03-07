@@ -1,5 +1,5 @@
+![Lead](https://img.shields.io/badge/Lead_Architect-ScheychX-D4AF37?style=for-the-badge)
 ![Team](https://img.shields.io/badge/SheychX_Dynamics-7_Core_Agents-00E5FF?style=flat-square&logo=github)
-![Status](https://img.shields.io/badge/V2.6-Stable_Dominant-green?style=flat-square)
 
 
 
