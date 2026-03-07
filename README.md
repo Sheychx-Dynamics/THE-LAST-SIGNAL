@@ -7,9 +7,7 @@
 
 ## 📁 SYSTEM MANIFEST | V3.2-POWER-SCALED
 ID: SD-V3.2-AUTHORITY-EXTENDED
-TIME: 03.03.2026 | 00:00 UTC +1
-
-VALIDATION: 🏃‍♂️ [ 0 ERRORS | 0 WARNINGS ] 🚀
+TIME: 07.03.2026 | 20:20 UTC +1
 
 ENGINE: UE 5.7.2 [STABLE / SCALING]
 
@@ -80,9 +78,7 @@ ENGINE: UE 5.7.2 [STABLE / SCALING]
 ### 4. RECRUITMENT STATUS (V2.7 - V3.2)
 
 - Map-Builders: 1 Slot (Strict constraint).
-- Game Design: 1 Slot (Combat balancing / AI behavior).
 - VFX: 1 Slot.
-- Animation: 1 Slot.
 - Infrastructure: 1 Slot (Discord/Repo).
 - Debugging: 2 Slots (QA / Edge-cases).
 - Audio: 1 Slot (SFX).
