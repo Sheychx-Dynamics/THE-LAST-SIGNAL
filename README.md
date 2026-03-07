@@ -1,16 +1,18 @@
 
-![Version](https://img.shields.io/badge/Version-3.0.5-blue)
+![Version](https://img.shields.io/badge/Version-3.2-blue)
 ![Engine](https://img.shields.io/badge/Engine-Unreal--Engine--5.7.2--Optimized-green)
 ![Pipeline](https://img.shields.io/badge/Pipeline-SM6%20%2F%20DX12-blue)
 ![Status](https://img.shields.io/badge/Status-STABLE%20%2F%20DOMINANT-red)
 
-## 📁 SYSTEM MANIFEST | V3.0-POWER-SCALED
-ID: SD-V3.0-AUTHORITY-EXTENDED
+## 📁 SYSTEM MANIFEST | V3.2-POWER-SCALED
+ID: SD-V3.2-AUTHORITY-EXTENDED
 TIME: 03.03.2026 | 00:00 UTC +1
 
 VALIDATION: 🏃‍♂️ [ 0 ERRORS | 0 WARNINGS ] 🚀
 
 ENGINE: UE 5.7.2 [STABLE / SCALING]
+
+<img width="1919" height="1075" alt="Current System Manifest" src="Screenshot 2026-02-28 011113.png" />
 
 <img width="1919" height="1075" alt="Current System Manifest" src="Screenshot 2026-02-28 011113.png" />
 
@@ -32,9 +34,10 @@ ENGINE: UE 5.7.2 [STABLE / SCALING]
 * **V2.8** (28.02.2026): Massive Core optimization.
 * **V2.9** (01.03.2026): Core == 0(ZERO) Bug Policy.
 * **V3.0** (01.03.2026)(MEZ+1)(23:00): Stable / Ship Debug Dev.
-------
-  **V3.0.5** (04.03.2026)(MEZ+1)(00:00). Finale Core
-------
+* **V3.0.5** (04.03.2026)(MEZ+1)(00:00). Core
+* **V3.1** (06.03.2026)(MEZ+1)(00:00). driveable Ship + Ocean integration (concept validation)
+* 
+* **V3.2** (07.03.2026)(MEZ+1)(00:00). Update 4 maps, a bunch of controls, and debug options (Ability Tree integration).
 
 > **Philosophy:** "Solve what others fear, Scale what others can't."
 > https://www.reddit.com/r/UnrealEngine5/comments/1rft19v/collab_ue_57_performance_project_the_last_signal/
