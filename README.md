@@ -14,7 +14,7 @@ ENGINE: UE 5.7.2 [STABLE / SCALING]
 
 <img width="1919" height="1075" alt="Current System Manifest" src="Screenshot 2026-02-28 011113.png" />
 
-<img width="1919" height="1075" alt="Current System Manifest" src="Screenshot 2026-02-28 011113.png" />
+<img width="1919" height="1075" alt="Current System Manifest" src="Screenshot 2026-03-06 200858.png" />
 
 # 🌌 SheychX Dynamics | Project: "The Last Signal"
 
