@@ -1,4 +1,4 @@
-![Team](https://img.shields.io/badge/SheychX_Dynamics-Team_7_Professionals-313131?style=for-the-badge&logo=shippable)
+![Team](https://img.shields.io/badge/SheychX_Dynamics-Team_of_seven_Agents-313131?style=for-the-badge&logo=shippable)
 
 ![Version](https://img.shields.io/badge/Version-3.2.0-blue)
 ![Engine](https://img.shields.io/badge/Engine-Unreal--Engine--5.7.2--Optimized-green)
