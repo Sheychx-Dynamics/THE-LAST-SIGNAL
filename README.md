@@ -7,14 +7,6 @@
 
 Latest function test(v3.1): https://www.reddit.com/user/GuitarSome5123/comments/1rladcz/sdv31_testing_some_functions/
 
-## 📁 SYSTEM MANIFEST | V3.2-POWER-SCALED
-ID: SD-V3.2-AUTHORITY-EXTENDED
-TIME: 07.03.2026 | 20:20 UTC +1
-
-ENGINE: UE 5.7.2 [STABLE / SCALING]
-
-# 🌌 SheychX Dynamics | Project: "The Last Signal"
-
 ## 🎮 PROJECT: "THE LAST SIGNAL"
 *High-tier vertical mobility meets Eldritch horror and Industrial brutalism.*
 
