@@ -1,7 +1,8 @@
 ![Team](https://img.shields.io/badge/SheychX_Dynamics-7_Core_Agents-00E5FF?style=flat-square&logo=github)
 ![Status](https://img.shields.io/badge/V2.6-Stable_Dominant-green?style=flat-square)
-![Architecture](https://img.shields.io/badge/Architecture-UE_5.7_Optimized-D4AF37?style=flat-square)
-![Team](https://img.shields.io/badge/SheychX_Dynamics-7_People-00E5FF?style=flat-square&logo=github&logoColor=white)
+
+
+
 ![Agent-Objective](https://img.shields.io/badge/50--Agent--Objective-In_Progress-00E5FF?style=for-the-badge)
 ![Version](https://img.shields.io/badge/Version-3.2.0-blue)
 ![Engine](https://img.shields.io/badge/Engine-Unreal--Engine--5.7.2--Optimized-green)
