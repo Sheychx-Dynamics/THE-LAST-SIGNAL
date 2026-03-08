@@ -10,6 +10,15 @@
 
 - Latest Project Update 08.03.26 MEZ +1 / CET +1
 
+Project Core Team 
+🏗️ Lead Architect
+📅 Manager 
+🎮 Game Design
+🏃 Animator
+🎧 Audio Composer
+✍️ Author
+📜 Lore Archivist
+
 ## 🎮 PROJECT: "THE LAST SIGNAL"
 *High-tier vertical mobility meets Eldritch horror and Industrial brutalism.*
 
