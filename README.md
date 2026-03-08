@@ -1,6 +1,6 @@
 # SheychX Dynamics | SD-V3.2-ADVANCED
 
-[![Team](https://img.shields.io/badge/SheychX_Dynamics-Team_of_seven_Agents-313131?style=for-the-badge&logo=shippable)](https://www.instagram.com/sheychx)
+[![Team](https://img.shields.io/badge/SheychX_Dynamics-Team_of_8_Agents-313131?style=for-the-badge&logo=shippable)](https://www.instagram.com/sheychx)
 ![Version](https://img.shields.io/badge/Version-3.2.0-blue?style=for-the-badge)
 ![Engine](https://img.shields.io/badge/Engine-Unreal--Engine--5.7.2--Optimized-green?style=for-the-badge&logo=unrealengine)
 ![Pipeline](https://img.shields.io/badge/Pipeline-SM6%20%2F%20DX12-blue?style=for-the-badge)
@@ -8,7 +8,7 @@
 
 **Latest function test (v3.1):** [Reddit Documentation](https://www.reddit.com/user/GuitarSome5123/comments/1rladcz/sdv31_testing_some_functions/)
 
----
+- Latest Project Update 08.03.26 MEZ +1 / CET +1
 
 ## 🎮 PROJECT: "THE LAST SIGNAL"
 *High-tier vertical mobility meets Eldritch horror and Industrial brutalism.*
