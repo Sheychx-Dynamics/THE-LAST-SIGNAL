@@ -8,7 +8,7 @@
 
 **Latest function test (v3.1):** [Reddit Documentation](https://www.reddit.com/user/GuitarSome5123/comments/1rladcz/sdv31_testing_some_functions/)
 
-- Latest Project Update 08.03.26 MEZ +1 / CET +1
+- Latest Project Update 09.03.26 03:00 MEZ +1 / CET +1 Road to 3.3
 
 Project Core Team 
 🏗️ Lead Architect
