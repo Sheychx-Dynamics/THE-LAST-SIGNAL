@@ -101,7 +101,6 @@ Project Core Team
 | 21.02.26 | ![Screenshot](Screenshot%202026-02-21%20145836.png) |
 | 22.02.26 | ![Screenshot](Screenshot%202026-02-22%20163720.png) |
 | 22.02.26 | ![Screenshot](Screenshot%202026-02-22%20200448.png) |
-| 24.02.26 | ![Screenshot](Screenshot%202026-02-24%20221808.png) |
 | 28.02.26 | ![Screenshot](Screenshot%202026-02-28%20011113.png) |
 | 04.03.26 | ![Screenshot](Screenshot%202026-03-04%20071850.png) |
 | 05.03.26 | ![Screenshot](Screenshot%202026-03-05%20070645.png) |
