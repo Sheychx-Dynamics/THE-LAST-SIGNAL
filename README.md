@@ -1,4 +1,4 @@
-# SheychX Dynamics | SD-V3.4-ADVANCED
+# SheychX Dynamics | TLS SD-CORE-V3.4-ADVANCED
 
 [![Team](https://img.shields.io/badge/SheychX_Dynamics-Team_of_8_Agents-313131?style=for-the-badge&logo=shippable)](https://www.instagram.com/sheychx)
 ![Version](https://img.shields.io/badge/Version-3.4-blue?style=for-the-badge)
