@@ -1,4 +1,4 @@
-# SheychX Dynamics | SD-V3.3-ADVANCED
+# SheychX Dynamics | SD-V3.4-ADVANCED
 
 [![Team](https://img.shields.io/badge/SheychX_Dynamics-Team_of_8_Agents-313131?style=for-the-badge&logo=shippable)](https://www.instagram.com/sheychx)
 ![Version](https://img.shields.io/badge/Version-3.3-blue?style=for-the-badge)
@@ -8,7 +8,9 @@
 
 **Latest captured function test (v3.1):** [Reddit Documentation](https://www.reddit.com/user/GuitarSome5123/comments/1rladcz/sdv31_testing_some_functions/)
 
-- Latest Project Update 09.03.26 06:15 MEZ +1 / CET +1 Updated to V3.3
+- Latest Project Update 09.03.26 19:45 MEZ +1 / CET +1 Updated to V3.4
+
+
 
 Project Core Team 
 🏗️ Lead Architect
