@@ -1,7 +1,7 @@
 # SheychX Dynamics | SD-V3.4-ADVANCED
 
 [![Team](https://img.shields.io/badge/SheychX_Dynamics-Team_of_8_Agents-313131?style=for-the-badge&logo=shippable)](https://www.instagram.com/sheychx)
-![Version](https://img.shields.io/badge/Version-3.3-blue?style=for-the-badge)
+![Version](https://img.shields.io/badge/Version-3.4-blue?style=for-the-badge)
 ![Engine](https://img.shields.io/badge/Engine-Unreal--Engine--5.7.2--Optimized-green?style=for-the-badge&logo=unrealengine)
 ![Pipeline](https://img.shields.io/badge/Pipeline-SM6%20%2F%20DX12-blue?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Status-STABLE%20%2F%20DOMINANT-red?style=for-the-badge)
@@ -94,7 +94,7 @@ Project Core Team
 
 ## Dokumentation & Visuals
 
-### Splash
+![3.4](Screenshot%202026-03-09%20174212.png)
 ![SPLASH-FINAL](SPLASH-FINAL.png)
 | 20.02.26 | ![Screenshot](Screenshot%202026-02-20%20150240.png) |
 | 21.02.26 | ![Screenshot](Screenshot%202026-02-21%20094332.png) |
