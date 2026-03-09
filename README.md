@@ -96,7 +96,6 @@ Project Core Team
 
 ### Splash
 ![SPLASH-FINAL](SPLASH-FINAL.png)
-| 17.02.26 | ![Screenshot](Screenshot%202026-02-17%20113404.png) |
 | 20.02.26 | ![Screenshot](Screenshot%202026-02-20%20150240.png) |
 | 21.02.26 | ![Screenshot](Screenshot%202026-02-21%20094332.png) |
 | 21.02.26 | ![Screenshot](Screenshot%202026-02-21%20145836.png) |
