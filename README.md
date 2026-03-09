@@ -9,8 +9,6 @@
 **Latest captured function test (v3.1):** [Reddit Documentation](https://www.reddit.com/user/GuitarSome5123/comments/1rladcz/sdv31_testing_some_functions/)
 
 - Latest Project Update 09.03.26 19:45 MEZ +1 / CET +1 Updated to V3.4
-![V3.4](Screenshot%202026-03-09%20180609.png)
-
 
 Project Core Team 
 🏗️ Lead Architect
@@ -95,6 +93,7 @@ Project Core Team
 
 ## Dokumentation & Visuals
 
+![V3.4](Screenshot%202026-03-09%20180609.png)
 ![3.4](Screenshot%202026-03-09%20174212.png)
 ![SPLASH-FINAL](SPLASH-FINAL.png)
 | 20.02.26 | ![Screenshot](Screenshot%202026-02-20%20150240.png) |
