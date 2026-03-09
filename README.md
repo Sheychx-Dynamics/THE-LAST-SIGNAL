@@ -89,3 +89,24 @@ Project Core Team
 * [![Reddit Profile](https://img.shields.io/badge/Reddit-Lead--Architect-FF4500?style=flat-square&logo=reddit&logoColor=white)](https://www.reddit.com/user/GuitarSome5123/)
 * **Initial AI Stresstest:** [Watch on Reddit](https://www.reddit.com/r/UnrealEngine5/comments/1re0po6/testing_30_ai_agents_on_my_rtx_2070_laptop/)
 * **Collab/RevShare Details:** [INAT Thread](https://www.reddit.com/r/INAT/comments/1rn2yhw/revshare_team_of_7_scaling_the_dominant/)
+
+## Dokumentation & Visuals
+
+### Splash
+![SPLASH-FINAL](SPLASH-FINAL.png)
+| 17.02.26 | ![Screenshot](Screenshot%202026-02-17%20113404.png) |
+| 20.02.26 | ![Screenshot](Screenshot%202026-02-20%20150240.png) |
+| 21.02.26 | ![Screenshot](Screenshot%202026-02-21%20094332.png) |
+| 21.02.26 | ![Screenshot](Screenshot%202026-02-21%20145836.png) |
+| 22.02.26 | ![Screenshot](Screenshot%202026-02-22%20163720.png) |
+| 22.02.26 | ![Screenshot](Screenshot%202026-02-22%20200448.png) |
+| 23.02.26 | ![Screenshot](Screenshot%202026-02-23%20155326.png) |
+| 24.02.26 | ![Screenshot](Screenshot%202026-02-24%20221808.png) |
+| 28.02.26 | ![Screenshot](Screenshot%202026-02-28%20011113.png) |
+| 04.03.26 | ![Screenshot](Screenshot%202026-03-04%20071850.png) |
+| 05.03.26 | ![Screenshot](Screenshot%202026-03-05%20070645.png) |
+| 06.03.26 | ![Screenshot](Screenshot%202026-03-06%20190849.png) |
+| 06.03.26 | ![Screenshot](Screenshot%202026-03-06%20200858.png) |
+| 09.03.26 | ![Screenshot](Screenshot%202026-03-09%20025918.png) |
+| 09.03.26 | ![Screenshot](Screenshot%202026-03-09%20034036.png) |
+| 09.03.26 | ![Screenshot](Screenshot%202026-03-09%20034345.png) |
