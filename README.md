@@ -1,4 +1,4 @@
-# SheychX Dynamics | SD-V3.2-ADVANCED
+# SheychX Dynamics | SD-V3.3-ADVANCED
 
 [![Team](https://img.shields.io/badge/SheychX_Dynamics-Team_of_8_Agents-313131?style=for-the-badge&logo=shippable)](https://www.instagram.com/sheychx)
 ![Version](https://img.shields.io/badge/Version-3.2.0-blue?style=for-the-badge)
@@ -6,9 +6,9 @@
 ![Pipeline](https://img.shields.io/badge/Pipeline-SM6%20%2F%20DX12-blue?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Status-STABLE%20%2F%20DOMINANT-red?style=for-the-badge)
 
-**Latest function test (v3.1):** [Reddit Documentation](https://www.reddit.com/user/GuitarSome5123/comments/1rladcz/sdv31_testing_some_functions/)
+**Latest captured function test (v3.1):** [Reddit Documentation](https://www.reddit.com/user/GuitarSome5123/comments/1rladcz/sdv31_testing_some_functions/)
 
-- Latest Project Update 09.03.26 03:00 MEZ +1 / CET +1 Road to 3.3
+- Latest Project Update 09.03.26 06:15 MEZ +1 / CET +1 Road to 3.3
 
 Project Core Team 
 🏗️ Lead Architect
@@ -22,8 +22,8 @@ Project Core Team
 ## 🎮 PROJECT: "THE LAST SIGNAL"
 *High-tier vertical mobility meets Eldritch horror and Industrial brutalism.*
 
-### ⚙️ CORE ARCHITECTURE (V3.2-ADVANCED)
-> **Build ID:** SD Core-V3.2 (07.03.2026)  
+### ⚙️ CORE ARCHITECTURE (V3.3-ADVANCED)
+> **Build ID:** SD Core-V3.3 (09.03.2026)  
 > **Philosophy:** "Solve what others fear, Scale what others can't."
 
 #### 📁 Technical Evolution & Version Log
@@ -39,7 +39,7 @@ Project Core Team
 * **V3.0.5** (04.03.2026): SM5 ➔ **SM6 Core** Transition.
 * **V3.1** (06.03.2026): Drivable Ship + Ocean concept validation.
 * **V3.2** (07.03.2026): Map Update, Ability Tree integration / Expansion.
-
+* **V3.3** (09.03.2026): Task list Updates, Massive core polishing
 ---
 
 ### 🛠️ TECHNICAL SPECIFICATIONS
@@ -47,9 +47,9 @@ Project Core Team
 * **IK-Precision Engine:** Proprietary Translation-Retargeting-Fix for UE 5.7. Procedural animations via 'Skeleton' protocol. [Technical Insight](https://www.reddit.com/r/UnrealEngine5/comments/1rf66ax/comment/o7hni6p/?context=3)
 * **V3.0 Hybrid AI:** "Lazy AI" Method – Optimized for high-density encounters using decoupled logic-tick throttling.
 * **Physical Overlap Overrides:** Instant AI reactivity via physics-based triggers—bypassing idle latency.
-* **SD Core Metrics:** * Build < 1.0 GB (1k textures) 
-    * Project File Size < 5.0 GB 
-    * **V3.0 Debug Build:** < 1.0 GB (1k textures) | < 3.0 GB (2k textures)
+* **SD Core Metrics:** * Build < 2.0 GB (2k textures) 
+    * Project File Size < 5.0 GB Lean State main Functions (Raw 32GB)
+    * **V3.3 Debug Build:** < 1.6 GB (1k textures) | < 3.8 GB (2k textures)
 
 ---
 
