@@ -42,6 +42,7 @@ Project Core Team
 * **V3.1** (06.03.2026): Drivable Ship + Ocean concept validation.
 * **V3.2** (07.03.2026): Map Update, Ability Tree integration / Expansion.
 * **V3.3** (09.03.2026): Task list Updates, Massive core polishing
+   * **V3.4** (09.03.2026): Arena Update* New Spawner*  Traps* Bug fixes |
 ---
 
 ### 🛠️ TECHNICAL SPECIFICATIONS
