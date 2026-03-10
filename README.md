@@ -1,14 +1,14 @@
-# SheychX Dynamics | TLS SD-CORE-V3.4-ADVANCED
+# SheychX Dynamics | TLS SD-CORE-V3.5-ADVANCED
 
 [![Team](https://img.shields.io/badge/SheychX_Dynamics-Team_of_8_Agents-313131?style=for-the-badge&logo=shippable)](https://www.instagram.com/sheychx)
-![Version](https://img.shields.io/badge/Version-3.4-blue?style=for-the-badge)
+![Version](https://img.shields.io/badge/Version-3.5-blue?style=for-the-badge)
 ![Engine](https://img.shields.io/badge/Engine-Unreal--Engine--5.7.2--Optimized-green?style=for-the-badge&logo=unrealengine)
 ![Pipeline](https://img.shields.io/badge/Pipeline-SM6%20%2F%20DX12-blue?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Status-STABLE%20%2F%20DOMINANT-red?style=for-the-badge)
 
 **Latest captured function test (v3.1):** [Reddit Documentation](https://www.reddit.com/user/GuitarSome5123/comments/1rladcz/sdv31_testing_some_functions/)
 
-- Latest Project Update 09.03.26 19:45 MEZ +1 / CET +1 Updated to V3.4
+- Latest Project Update 10.03.26 Update V3.5
 
 Project Core Team 
 🏗️ Lead Architect
@@ -40,7 +40,8 @@ Project Core Team
 * **V3.1** (06.03.2026): Drivable Ship + Ocean concept validation.
 * **V3.2** (07.03.2026): Map Update, Ability Tree integration / Expansion.
 * **V3.3** (09.03.2026): Task list Updates, Massive core polishing
-   * **V3.4** (09.03.2026): Arena Update* New Spawner*  Traps* Bug fixes |
+* **V3.4** (09.03.2026): Arena Update* New Spawner*  Traps* Bug fixes |
+  * **V3.5** (09.03.2026): Spikes / Graphic improvements / Tasks 2/3
 ---
 
 ### 🛠️ TECHNICAL SPECIFICATIONS
@@ -90,25 +91,6 @@ Project Core Team
 * [![Reddit Profile](https://img.shields.io/badge/Reddit-Lead--Architect-FF4500?style=flat-square&logo=reddit&logoColor=white)](https://www.reddit.com/user/GuitarSome5123/)
 * **Initial AI Stresstest:** [Watch on Reddit](https://www.reddit.com/r/UnrealEngine5/comments/1re0po6/testing_30_ai_agents_on_my_rtx_2070_laptop/)
 * **Collab/RevShare Details:** [INAT Thread](https://www.reddit.com/r/INAT/comments/1rn2yhw/revshare_team_of_7_scaling_the_dominant/)
-
-## Dokumentation & Visuals
-
-![V3.4](Screenshot%202026-03-09%20180609.png)
-![3.4](Screenshot%202026-03-09%20174212.png)
-![SPLASH-FINAL](SPLASH-FINAL.png)
-| 20.02.26 | ![Screenshot](Screenshot%202026-02-20%20150240.png) |
-| 21.02.26 | ![Screenshot](Screenshot%202026-02-21%20094332.png) |
-| 21.02.26 | ![Screenshot](Screenshot%202026-02-21%20145836.png) |
-| 22.02.26 | ![Screenshot](Screenshot%202026-02-22%20163720.png) |
-| 22.02.26 | ![Screenshot](Screenshot%202026-02-22%20200448.png) |
-| 28.02.26 | ![Screenshot](Screenshot%202026-02-28%20011113.png) |
-| 04.03.26 | ![Screenshot](Screenshot%202026-03-04%20071850.png) |
-| 05.03.26 | ![Screenshot](Screenshot%202026-03-05%20070645.png) |
-| 06.03.26 | ![Screenshot](Screenshot%202026-03-06%20190849.png) |
-| 06.03.26 | ![Screenshot](Screenshot%202026-03-06%20200858.png) |
-| 09.03.26 | ![Screenshot](Screenshot%202026-03-09%20025918.png) |
-| 09.03.26 | ![Screenshot](Screenshot%202026-03-09%20034036.png) |
-| 09.03.26 | ![Screenshot](Screenshot%202026-03-09%20034345.png) |
 
 📊 Repository Status Report [V3.4]
 
