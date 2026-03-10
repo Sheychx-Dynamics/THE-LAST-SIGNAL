@@ -51,7 +51,7 @@ Project Core Team
 * **Physical Overlap Overrides:** Instant AI reactivity via physics-based triggers—bypassing idle latency.
 * **SD Core Metrics:** * Build < 2.0 GB (2k textures) 
     * Project File Size < 5.0 GB Lean State main Functions (Raw 32GB)
-    * **V3.4 Developer Build:** < 2.0 GB (1k textures) | < 4 GB (2k textures)
+    * **V3.5 Developer Build:** < 2.0 GB (1k textures) | < 4 GB (2k textures)
 
 ---
 
