@@ -41,7 +41,7 @@ Project Core Team
 * **V3.2** (07.03.2026): Map Update, Ability Tree integration / Expansion.
 * **V3.3** (09.03.2026): Task list Updates, Massive core polishing
 * **V3.4** (09.03.2026): Arena Update* New Spawner*  Traps* Bug fixes |
-  * **V3.5** (09.03.2026): Spikes / Graphic improvements / Tasks 2/3
+  * **V3.5** (10.03.2026): Spikes / Graphic improvements / Tasks 2/3
 ---
 
 ### 🛠️ TECHNICAL SPECIFICATIONS
@@ -51,7 +51,7 @@ Project Core Team
 * **Physical Overlap Overrides:** Instant AI reactivity via physics-based triggers—bypassing idle latency.
 * **SD Core Metrics:** * Build < 2.0 GB (2k textures) 
     * Project File Size < 5.0 GB Lean State main Functions (Raw 32GB)
-    * **V3.4 Developer Build:** < 1.7 GB (1k textures) | < 3.8 GB (2k textures)
+    * **V3.4 Developer Build:** < 2.0 GB (1k textures) | < 4 GB (2k textures)
 
 ---
 
@@ -92,11 +92,11 @@ Project Core Team
 * **Initial AI Stresstest:** [Watch on Reddit](https://www.reddit.com/r/UnrealEngine5/comments/1re0po6/testing_30_ai_agents_on_my_rtx_2070_laptop/)
 * **Collab/RevShare Details:** [INAT Thread](https://www.reddit.com/r/INAT/comments/1rn2yhw/revshare_team_of_7_scaling_the_dominant/)
 
-📊 Repository Status Report [V3.4]
+📊 Repository Status Report [V3.5]
 
 📦 Legacy/Raw Archives: Full project history (32GB, unoptimized) preserved for comprehensive data recovery and audit trails.
 
-🖥️ V3.2 Production Core: High-performance repository optimized to 3.5GB lean-state; strictly verified production assets only.
+🖥️ V3.5 Production Core: High-performance repository optimized to 3.5GB lean-state; strictly verified production assets only.
 
 🔧 Historical Iterations: Sequential snapshots maintained for granular rollback capability and technical reference.
 
