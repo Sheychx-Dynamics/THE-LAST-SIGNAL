@@ -1,14 +1,14 @@
 # SheychX Dynamics | TLS SD-CORE-V3.6-ADVANCED
 
 [![Team](https://img.shields.io/badge/SheychX_Dynamics-Team_of_8_Agents-313131?style=for-the-badge&logo=shippable)](https://www.instagram.com/sheychx)
-![Version](https://img.shields.io/badge/Version-3.6-blue?style=for-the-badge)
+![Version](https://img.shields.io/badge/Version-3.7blue?style=for-the-badge)
 ![Engine](https://img.shields.io/badge/Engine-Unreal--Engine--5.7.2--Optimized-green?style=for-the-badge&logo=unrealengine)
 ![Pipeline](https://img.shields.io/badge/Pipeline-SM6%20%2F%20DX12-blue?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Status-STABLE%20%2F%20DOMINANT-red?style=for-the-badge)
 
 **Latest captured function test (v3.1):** [Reddit Documentation](https://www.reddit.com/user/GuitarSome5123/comments/1rladcz/sdv31_testing_some_functions/)
 
-- Latest Project Update 11.03.26 Update V3.6
+- Latest Project Update 11.03.26 Update V3.7
 
 Project Core Team 
 🏗️ Lead Architect
@@ -22,8 +22,8 @@ Project Core Team
 ## 🎮 PROJECT: "THE LAST SIGNAL"
 *High-tier vertical mobility meets Eldritch horror and Industrial brutalism.*
 
-### ⚙️ CORE ARCHITECTURE (V3.4-ADVANCED)
-> **Build ID:** SD Core-V3.4 (09.03.2026)  
+### ⚙️ CORE ARCHITECTURE (V3.7-ADVANCED)
+> **Build ID:** SD Core-V3.7 (12.03.2026)  
 > **Philosophy:** "Solve what others fear, Scale what others can't."
 
 #### 📁 Technical Evolution & Version Log
@@ -42,8 +42,8 @@ Project Core Team
 * **V3.3** (09.03.2026): Task list Updates, Massive core polishing
 * **V3.4** (09.03.2026): Arena Update* New Spawner*  Traps* Bug fixes |
 * **V3.5** (10.03.2026): Spikes / Graphic improvements / Tasks 2/3
- * **V3.6** (11.03.2026): Recoil Logic Refinement. Individualized control points for weapon-specific handling. Bug fixes & Task-List-Synchronization.
-
+* **V3.6** (11.03.2026): Recoil Logic Refinement. Individualized control points for weapon-specific handling. Bug fixes & Task-List-Synchronization.
+   * **V3.7** (11.03.2026): overall improvements
 
 ### 🛠️ TECHNICAL SPECIFICATIONS
 
@@ -52,7 +52,7 @@ Project Core Team
 * **Physical Overlap Overrides:** Instant AI reactivity via physics-based triggers—bypassing idle latency.
 * **SD Core Metrics:** * Build < 2.0 GB (2k textures) 
     * Project File Size < 5.0 GB Lean State main Functions (Raw 32GB)
-    * **V3.6 Developer Build:** < 2.0 GB (1k textures) | < 4 GB (2k textures)
+    * **V3.7 Developer Build:** < 2.0 GB (1k textures) | < 4 GB (2k textures)
 
 ---
 
@@ -77,7 +77,7 @@ Project Core Team
 ## 🛠️ RECRUITMENT & TECHNICAL AUTHORITY
 **SheychX Dynamics** is opening strictly limited slots for a disciplined core team. 
 
-### 📢 RECRUITMENT STATUS (V3.6)
+### 📢 RECRUITMENT STATUS (V3.7)
 * **Map-Builders:** 1 Slot (Strict constraint)
 * **VFX:** 1 Slot
 * **Infrastructure:** 1 Slot (Discord/Repo)
