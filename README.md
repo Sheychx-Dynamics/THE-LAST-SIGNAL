@@ -1,8 +1,7 @@
 # SheychX Dynamics | TLS SD-CORE-V3.6-ADVANCED
 
 [![Team](https://img.shields.io/badge/SheychX_Dynamics-Team_of_8_Agents-313131?style=for-the-badge&logo=shippable)](https://www.instagram.com/sheychx)
-[![Version](https://img.shields.io/badge/Version-3.7blue?style=for-the-badge)](https://img.shields.io/badge/SD%20V3.7
-)
+![Status](https://img.shields.io/badge/SD-V3.7%20%2F%20VERSION-red?style=for-the-badge)
 ![Engine](https://img.shields.io/badge/Engine-Unreal--Engine--5.7.2--Optimized-green?style=for-the-badge&logo=unrealengine)
 ![Pipeline](https://img.shields.io/badge/Pipeline-SM6%20%2F%20DX12-blue?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Status-STABLE%20%2F%20DOMINANT-red?style=for-the-badge)
