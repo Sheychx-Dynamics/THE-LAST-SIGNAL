@@ -44,7 +44,7 @@ Project Core Team
 * **V3.5** (10.03.2026): Spikes / Graphic improvements / Tasks 2/3
 * **V3.6** (11.03.2026): Recoil Logic Refinement. Individualized control points for weapon-specific handling. Bug fixes & Task-List-Synchronization.
 * **V3.7** (11.03.2026): overall improvements
-  * **V3.8** (11.03.2026): Friendly Ai functions/ Animated Crates(functions)/ enemie Ab./Sort
+  * **V3.8** (11.03.2026): Friendly Ai functions/ Animated Crates(functions)/ enemie Ab./Sort (spiders/traps)
   
 ### 🛠️ TECHNICAL SPECIFICATIONS
 
