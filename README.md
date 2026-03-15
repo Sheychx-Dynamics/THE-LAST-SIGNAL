@@ -1,4 +1,4 @@
-# SheychX Dynamics | TLS SD-CORE-V3.7-ADVANCED
+# SheychX Dynamics | TLS SD-CORE-V3.8-ADVANCED
 
 [![Team](https://img.shields.io/badge/SheychX_Dynamics-Team_of_8_Agents-10B981?style=for-the-badge&logo=shippable&labelColor=1A1A1A)](https://www.instagram.com/sheychx)
 ![Status](https://img.shields.io/badge/Version-SDCore%20%2F%20V3.7-D32F2F?style=for-the-badge&labelColor=1A1A1A)
@@ -23,7 +23,7 @@ Project Core Team
 *High-tier vertical mobility meets Eldritch horror and Industrial brutalism.*
 
 ### ⚙️ CORE ARCHITECTURE (V3.7-ADVANCED)
-> **Build ID:** SD Core-V3.7 (12.03.2026)  
+> **Build ID:** SD Core-V3.8 (15.03.2026)  
 > **Philosophy:** "Solve what others fear, Scale what others can't."
 
 #### 📁 Technical Evolution & Version Log
@@ -43,8 +43,9 @@ Project Core Team
 * **V3.4** (09.03.2026): Arena Update* New Spawner*  Traps* Bug fixes |
 * **V3.5** (10.03.2026): Spikes / Graphic improvements / Tasks 2/3
 * **V3.6** (11.03.2026): Recoil Logic Refinement. Individualized control points for weapon-specific handling. Bug fixes & Task-List-Synchronization.
-   * **V3.7** (11.03.2026): overall improvements
-
+* **V3.7** (11.03.2026): overall improvements
+  * **V3.8** (11.03.2026): Friendly Ai functions/ Animated Crates(functions)/ enemie Ab./Sort
+  
 ### 🛠️ TECHNICAL SPECIFICATIONS
 
 * **IK-Precision Engine:** Proprietary Translation-Retargeting-Fix for UE 5.7. Procedural animations via 'Skeleton' protocol. [Technical Insight](https://www.reddit.com/r/UnrealEngine5/comments/1rf66ax/comment/o7hni6p/?context=3)
@@ -52,7 +53,7 @@ Project Core Team
 * **Physical Overlap Overrides:** Instant AI reactivity via physics-based triggers—bypassing idle latency.
 * **SD Core Metrics:** * Build < 2.0 GB (2k textures) 
     * Project File Size < 5.0 GB Lean State main Functions (Raw 32GB)
-    * **V3.7 Developer Build:** < 2.0 GB (1k textures) | < 4 GB (2k textures)
+    * **V3.8 Developer Build:** < 2.0 GB (1k textures) | < 4 GB (2k textures)
 
 ---
 
@@ -77,7 +78,7 @@ Project Core Team
 ## 🛠️ RECRUITMENT & TECHNICAL AUTHORITY
 **SheychX Dynamics** is opening strictly limited slots for a disciplined core team. 
 
-### 📢 RECRUITMENT STATUS (V3.7)
+### 📢 RECRUITMENT STATUS (V3.8)
 * **Map-Builders:** 1 Slot (Strict constraint)
 * **VFX:** 1 Slot
 * **Infrastructure:** 1 Slot (Discord/Repo)
