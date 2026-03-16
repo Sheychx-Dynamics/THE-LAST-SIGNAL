@@ -52,7 +52,7 @@ Project Core Team
 * **V3.0 Hybrid AI:** "Lazy AI" Method – Optimized for high-density encounters using decoupled logic-tick throttling.
 * **Physical Overlap Overrides:** Instant AI reactivity via physics-based triggers—bypassing idle latency.
 * **SD Core Metrics:** * Build < 2.0 GB (2k textures) 
-    * Project File Size < 5.0 GB Lean State main Functions (Raw 32GB)
+    * Project File Size < 5.0 GB Lean State main Functions (Raw 24GB) 16.3.26
     * **V3.8 Developer Build:** < 2.0 GB (1k textures) | < 4 GB (2k textures)
 
 ---
