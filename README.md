@@ -6,7 +6,7 @@
 ![Pipeline](https://img.shields.io/badge/Pipeline-SM6%20%2F%20DX12-00599C?style=for-the-badge&labelColor=1A1A1A)
 ![Status](https://img.shields.io/badge/Status-STABLE%20%2F%20DOMINANT-8B0000?style=for-the-badge&labelColor=1A1A1A)
 
-**Latest captured function test (v3.1):** [Reddit Documentation](https://www.reddit.com/user/GuitarSome5123/comments/1rladcz/sdv31_testing_some_functions/)
+**Latest captured function test (Technical showcases, are'nt Available anymore)
 
 - Latest Project Update 13.03.26 Update V3.8
 
