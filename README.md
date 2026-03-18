@@ -91,8 +91,6 @@ Project Core Team
 
 ### 🔗 EXTERNAL ASSETS
 * [![Reddit Profile](https://img.shields.io/badge/Reddit-Lead--Architect-FF4500?style=flat-square&logo=reddit&logoColor=white)](https://www.reddit.com/user/GuitarSome5123/)
-* **Initial AI Stresstest:** [Watch on Reddit](https://www.reddit.com/r/UnrealEngine5/comments/1re0po6/testing_30_ai_agents_on_my_rtx_2070_laptop/)
-* **Collab/RevShare Details:** [INAT Thread](https://www.reddit.com/r/INAT/comments/1rn2yhw/revshare_team_of_7_scaling_the_dominant/)
 
-📊 Repository Status Report [V3.8][14.3.26]
+📊 Repository Status Report [V3.8][18.3.26][3 WAY SAFETY REPO Raw/Lean]
 
