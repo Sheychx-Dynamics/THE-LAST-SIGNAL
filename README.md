@@ -1,4 +1,4 @@
-# SheychX Dynamics | TLS SD-CORE-V3.8-ADVANCED
+# SheychX Dynamics | TLS SD-CORE-V3.9-ADVANCED
 
 [![Team](https://img.shields.io/badge/SheychX_Dynamics-Team_of_8_Agents-10B981?style=for-the-badge&logo=shippable&labelColor=1A1A1A)](https://www.instagram.com/sheychx)
 ![Status](https://img.shields.io/badge/Version-SDCore%20%2F%20V3.8-D32F2F?style=for-the-badge&labelColor=1A1A1A)
@@ -8,7 +8,7 @@
 
 **Latest captured function test (Technical showcases, are'nt Available anymore)
 
-- Latest Project Update 13.03.26 Update V3.8
+- Latest Project Update 23.03.26 Update V3.9
 
 Project Core Team 
 🏗️ Lead Architect
@@ -44,8 +44,9 @@ Project Core Team
 * **V3.5** (10.03.2026): Spikes / Graphic improvements / Tasks 2/3
 * **V3.6** (11.03.2026): Recoil Logic Refinement. Individualized control points for weapon-specific handling. Bug fixes & Task-List-Synchronization.
 * **V3.7** (11.03.2026): overall improvements
-  * **V3.8** (11.03.2026): Friendly Ai functions/ Animated Crates(functions)/ enemie Ab./Sort (spiders/traps)
-  
+* **V3.8** (13.03.2026): Friendly Ai functions/ Animated Crates(functions)/ enemie Ab./Sort (spiders/traps)
+  * **V3.9** (23.03.2026): Dynamic Intro/Lobby/Enemie Improvements & more
+  * 
 ### 🛠️ TECHNICAL SPECIFICATIONS
 
 * **IK-Precision Engine:** Proprietary Translation-Retargeting-Fix for UE 5.7. Procedural animations via 'Skeleton' protocol. [Technical Insight](https://www.reddit.com/r/UnrealEngine5/comments/1rf66ax/comment/o7hni6p/?context=3)
