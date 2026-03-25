@@ -1,10 +1,10 @@
 # SheychX Dynamics | TLS SD-CORE-V4.0-SUPREMACY
 
-[![Team](https://img.shields.io/badge/SheychX_Dynamics-Team_of_8_Agents-10B981?style=for-the-badge&logo=shippable&labelColor=1A1A1A)](https://www.instagram.com/sheychx)
-![Status](https://img.shields.io/badge/Version-SDCore%20%2F%20V4.0-D32F2F?style=for-the-badge&labelColor=1A1A1A)
-![Engine](https://img.shields.io/badge/Engine-Unreal--Engine--5.7.2--Optimized-313131?style=for-the-badge&logo=unrealengine&logoColor=white&labelColor=0E1128)
-![Pipeline](https://img.shields.io/badge/Pipeline-SM6%20%2F%20DX12-00599C?style=for-the-badge&labelColor=1A1A1A)
-![Status](https://img.shields.io/badge/Status-STABLE%20%2F%20DOMINANT-8B0000?style=for-the-badge&labelColor=1A1A1A)
+[![Team](https://img.shields.io/badge/SHEYCHX_DYNAMICS-8_AGENTS-10B981?style=flat-square&logo=shippable&labelColor=000000)](https://www.instagram.com/sheychx)
+![Version](https://img.shields.io/badge/CORE-V4.0--SUPREMACY-D32F2F?style=flat-square&labelColor=000000)
+![Engine](https://img.shields.io/badge/ENGINE-UE_5.7.2_OPTIMIZED-313131?style=flat-square&logo=unrealengine&logoColor=white&labelColor=000000)
+![Pipeline](https://img.shields.io/badge/PIPELINE-SM6_%2F_DX12-00599C?style=flat-square&labelColor=000000)
+![Status](https://img.shields.io/badge/AUTHORITY-DOMINANT-8B0000?style=flat-square&labelColor=000000)
 
 **Latest captured function test (Technical showcases, are'nt Available anymore)
 
