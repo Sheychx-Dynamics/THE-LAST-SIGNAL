@@ -1,4 +1,4 @@
-# SheychX Dynamics | TLS SD-CORE-V3.9-ADVANCED
+# SheychX Dynamics | TLS SD-CORE-V4.0-SUPREMACY
 
 [![Team](https://img.shields.io/badge/SheychX_Dynamics-Team_of_8_Agents-10B981?style=for-the-badge&logo=shippable&labelColor=1A1A1A)](https://www.instagram.com/sheychx)
 ![Status](https://img.shields.io/badge/Version-SDCore%20%2F%20V3.8-D32F2F?style=for-the-badge&labelColor=1A1A1A)
@@ -8,7 +8,7 @@
 
 **Latest captured function test (Technical showcases, are'nt Available anymore)
 
-- Latest Project Update 23.03.26 Update V3.9
+- Latest Project Update 24.03.26 Update V4.0
 
 Project Core Team 
 🏗️ Lead Architect
@@ -23,7 +23,7 @@ Project Core Team
 *High-tier vertical mobility meets Eldritch horror and Industrial brutalism.*
 
 ### ⚙️ CORE ARCHITECTURE (V3.9-ADVANCED)
-> **Build ID:** SD Core-V3.9 (23.03.2026)  
+> **Build ID:** SD Core-V4.0 (24.03.2026)  
 > **Philosophy:** "Solve what others fear, Scale what others can't."
 
 #### 📁 Technical Evolution & Version Log
@@ -45,16 +45,17 @@ Project Core Team
 * **V3.6** (11.03.2026): Recoil Logic Refinement. Individualized control points for weapon-specific handling. Bug fixes & Task-List-Synchronization.
 * **V3.7** (11.03.2026): overall improvements
 * **V3.8** (13.03.2026): Friendly Ai functions/ Animated Crates(functions)/ enemie Ab./Sort (spiders/traps)
-  * **V3.9** (23.03.2026): Dynamic Intro/Lobby/Enemie Improvements & more
-  * 
+* **V3.9** (23.03.2026): Dynamic Intro/Lobby/Enemie Improvements & more
+  * **V4.0 (25.03.2026): SUPREMACY MILESTONE.
+
 ### 🛠️ TECHNICAL SPECIFICATIONS
 
 * **IK-Precision Engine:** Proprietary Translation-Retargeting-Fix for UE 5.7. Procedural animations via 'Skeleton' protocol. [Technical Insight](https://www.reddit.com/r/UnrealEngine5/comments/1rf66ax/comment/o7hni6p/?context=3)
 * **V3.0 Hybrid AI:** "Lazy AI" Method – Optimized for high-density encounters using decoupled logic-tick throttling.
 * **Physical Overlap Overrides:** Instant AI reactivity via physics-based triggers—bypassing idle latency.
 * **SD Core Metrics:** * Build < 2.0 GB (2k textures) 
-    * Project File Size < 5.0 GB Lean State main Functions (Raw 24GB) 16.3.26
-    * **V3.9 Developer Build:** < 1.85 GB (1K/2k textures)
+    * Project File Size < 5.0 GB Lean State main Functions (RawRar 15GB) 25.03.2026
+    * **V4.0 Developer Build:** < 1.85 GB (1K/2k textures)
 ---
 
 ## 🏗️ PERFORMANCE DATA & BENCHMARKS
@@ -78,7 +79,7 @@ Project Core Team
 ## 🛠️ RECRUITMENT & TECHNICAL AUTHORITY
 **SheychX Dynamics** is opening strictly limited slots for a disciplined core team. 
 
-### 📢 RECRUITMENT STATUS (V3.8)
+### 📢 RECRUITMENT STATUS (V4.0)
 * **Map-Builders:** 1 Slot (Strict constraint)
 * **VFX:** 1 Slot
 * **Infrastructure:** 1 Slot (Discord/Repo)
