@@ -22,7 +22,7 @@ Project Core Team
 ## 🎮 PROJECT: "THE LAST SIGNAL"
 *High-tier vertical mobility meets Eldritch horror and Industrial brutalism.*
 
-### ⚙️ CORE ARCHITECTURE (V3.9-ADVANCED)
+### ⚙️ CORE ARCHITECTURE
 > **Build ID:** SD Core-V4.0 (24.03.2026)  
 > **Philosophy:** "Solve what others fear, Scale what others can't."
 
