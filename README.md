@@ -1,6 +1,6 @@
 # SheychX Dynamics | TLS SD-CORE-V4.1-SUPREMACY
 
-[![Team](https://img.shields.io/badge/SHEYCHX_DYNAMICS-8_AGENTS-10B981?style=flat-square&logo=shippable&labelColor=000000)](https://www.instagram.com/sheychx)
+[![Team](https://img.shields.io/badge/SHEYCHX_DYNAMICS-9_AGENTS-10B981?style=flat-square&logo=shippable&labelColor=000000)](https://www.instagram.com/sheychx)
 ![Version](https://img.shields.io/badge/CORE-V4.1--SUPREMACY-D32F2F?style=flat-square&labelColor=000000)
 ![Engine](https://img.shields.io/badge/ENGINE-UE_5.7.2_OPTIMIZED-313131?style=flat-square&logo=unrealengine&logoColor=white&labelColor=000000)
 ![Pipeline](https://img.shields.io/badge/PIPELINE-SM6_%2F_DX12-00599C?style=flat-square&labelColor=000000)
