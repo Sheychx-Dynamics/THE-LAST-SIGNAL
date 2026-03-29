@@ -8,7 +8,7 @@
 
 **Latest captured function test (Technical showcases, are'nt Available anymore)
 
-- Latest Project Update 28.03.26 Update V4.1
+- Latest Project Update 28.03.26 Update V4.3
 
 Project Core Team 
 🏗️ Lead Architect
