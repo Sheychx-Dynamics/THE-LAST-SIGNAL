@@ -1,14 +1,14 @@
-# SheychX Dynamics | TLS SD-CORE-V4.1-SUPREMACY
+# SheychX Dynamics | TLS SD-CORE-V4.3-SUPREMACY
 
 [![Team](https://img.shields.io/badge/SHEYCHX_DYNAMICS-9_AGENTS-10B981?style=flat-square&logo=shippable&labelColor=000000)](https://www.instagram.com/sheychx)
-![Version](https://img.shields.io/badge/CORE-V4.1--SUPREMACY-D32F2F?style=flat-square&labelColor=000000)
+![Version](https://img.shields.io/badge/CORE-V4.3--SUPREMACY-D32F2F?style=flat-square&labelColor=000000)
 ![Engine](https://img.shields.io/badge/ENGINE-UE_5.7.2_OPTIMIZED-313131?style=flat-square&logo=unrealengine&logoColor=white&labelColor=000000)
 ![Pipeline](https://img.shields.io/badge/PIPELINE-SM6_%2F_DX12-00599C?style=flat-square&labelColor=000000)
 ![Status](https://img.shields.io/badge/AUTHORITY-DOMINANT-8B0000?style=flat-square&labelColor=000000)
 
 **Latest captured function test (Technical showcases, are'nt Available anymore)
 
-- Latest Project Update 27.03.26 Update V4.1
+- Latest Project Update 28.03.26 Update V4.1
 
 Project Core Team 
 🏗️ Lead Architect
@@ -48,6 +48,8 @@ Project Core Team
 * **V3.9** (23.03.2026): Dynamic Intro/Lobby/Enemie Improvements & more
  * **V4.0 (25.03.2026): CORE SUPREMACY. Full-scale restructuring Tasks 3/3.
   * * **V4.1 (27.03.2026): TS Road to VS 0.1
+    * * * **V4.2 (28.03.2026): TS Road to VS 0.2
+        * * * **V4.3 (28.03.2026): TS Road to VS 0.3
 
 ### 🛠️ TECHNICAL SPECIFICATIONS
 
@@ -80,7 +82,7 @@ Project Core Team
 ## 🛠️ RECRUITMENT & TECHNICAL AUTHORITY
 **SheychX Dynamics** is opening strictly limited slots for a disciplined core team. 
 
-### 📢 RECRUITMENT STATUS (V4.1)
+### 📢 RECRUITMENT STATUS (V4.3)
 * **Map-Builders:** 1 Slot (Strict constraint)
 * **VFX:** 1 Slot
 * **Infrastructure:** 1 Slot (Discord/Repo)
