@@ -91,6 +91,7 @@ Project Core Team
 * **Infrastructure:** 1 Slot (Discord/Repo)
 * **Debugging:** 2 Slots (QA / Edge-cases)
 * **Audio:** 1 Slot (SFX)
+* & MORE!
 
 **Contact:** DC @sheychx
 
