@@ -1,4 +1,4 @@
-# SheychX Dynamics | TLS SD-CORE-V4.3-SUPREMACY
+# SDX | TLS SD-CORE-V4.3
 
 [![Team](https://img.shields.io/badge/SHEYCHX_DYNAMICS-9_AGENTS-10B981?style=flat-square&logo=shippable&labelColor=000000)](https://www.instagram.com/sheychx)
 ![Version](https://img.shields.io/badge/CORE-V4.3--SUPREMACY-D32F2F?style=flat-square&labelColor=000000)
