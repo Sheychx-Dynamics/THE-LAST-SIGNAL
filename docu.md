@@ -103,5 +103,5 @@ Project Core Team
 
 V4.2(28.03)
 <img src="Screenshot%202026-03-28%20141437.png" alt="Screenshot" width="1000">
-<img src="Screenshot%2026-03-30%200230.png" alt="Screenshot" width="1000">
-<img src="Screenshot%2026-03-30%200117.png" alt="Screenshot" width="1000">
+<img src="Screenshot%202026-03-30%20200230.png" alt="Screenshot" width="1000">
+<img src="Screenshot%202026-03-30%20200117.png" alt="Screenshot" width="1000">
