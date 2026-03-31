@@ -101,8 +101,3 @@ Project Core Team
 * [![Reddit Profile](https://img.shields.io/badge/Reddit-Lead--Architect-FF4500?style=flat-square&logo=reddit&logoColor=white)](https://www.reddit.com/user/GuitarSome5123/)
 
 📊 Repository Status Report [V4.4][30.3.26]
-
-V4.2(28.03)
-<img src="Screenshot%202026-03-28%20141437.png" alt="Screenshot" width="1000">
-<img src="Screenshot%202026-03-30%20200230.png" alt="Screenshot" width="1000">
-<img src="Screenshot%202026-03-30%20200117.png" alt="Screenshot" width="1000">
