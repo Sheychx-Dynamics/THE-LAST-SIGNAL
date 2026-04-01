@@ -1,6 +1,6 @@
 # SDX | TLS SD-CORE-V4.6
 
-![Team](https://img.shields.io/badge/SHEYCHX_DYNAMICS-9_AGENTS-10B981?style=flat-square&logo=shippable&labelColor=000000)
+![Team](https://img.shields.io/badge/SDX-9_AGENTS-10B981?style=flat-square&logo=shippable&labelColor=000000)
 ![Version](https://img.shields.io/badge/CORE-V4.6--SUPREMACY-D32F2F?style=flat-square&labelColor=000000)
 ![Engine](https://img.shields.io/badge/ENGINE-UE_5.7.2_OPTIMIZED-313131?style=flat-square&logo=unrealengine&logoColor=white&labelColor=000000)
 ![Pipeline](https://img.shields.io/badge/PIPELINE-SM6_%2F_DX12-00599C?style=flat-square&labelColor=000000)
@@ -68,23 +68,15 @@ Proprietary Translation-Retargeting-Fix for UE 5.7.4 Procedural animations [Tech
 ## 🏗️ PERFORMANCE DATA & BENCHMARKS
 > **Status:** Architecture validated; optimization for consistent 30+ FPS baseline is ongoing.
 
-| Metric | Value | Status |
-| :--- | :--- | :--- |
-| **Active Agents** | 30 - 50 High-Performance Agents | [OPERATIONAL] |
-| **Average FPS** | Variable / Playable | [OPTIMIZING] |
-| **Hardware Baseline** | RTX 2070 Mobile | [STABLE] |
-| **Logic Recovery** | < 15ms CPU Response | [VALIDATED] |
-
 ### ⚡ Compatibility & Security
 * **Compiler:** .NET 8.0 SDK / MSVC 14.50.
 * **Architecture:** Zen File Manifest & IoStore asset streaming.
 * **OS Compliance:** Windows 11 (25H2) [Build 10.0.26200].
 * **Encryption:** AES-256 HardCrypted asset protection.
-
 ---
 
 ## 🛠️ RECRUITMENT & TECHNICAL AUTHORITY
-**SheychX Dynamics** is opening strictly limited slots for a disciplined core team. 
+strictly limited slots for a disciplined core team. 
 
 ### 📢 RECRUITMENT STATUS
 * **Map-Builders:** 1 Slot (Strict constraint)
