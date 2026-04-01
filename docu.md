@@ -53,7 +53,7 @@ Project Core Team
  * **V4.2 (28.03.2026): TS Road to VS 0.2
   * **V4.3 (28.03.2026): TS Road to VS 0.3
    **V4.4 (30.03.2026): TS Road to VS 0.4
-    **V4.5 (31.03.2026): TS Road to VS 0.
+    **V4.5 (31.03.2026): TS Road to VS 0.5
      **V4.6 (1.04.2026): TS Road to VS 0.6
 
     
