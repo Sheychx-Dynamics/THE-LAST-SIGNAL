@@ -49,12 +49,12 @@ Project Core Team
 * **V3.8** (13.03.2026): Friendly Ai functions/ Animated Crates(functions)/ enemie Ab./Sort (spiders/traps)
 * **V3.9** (23.03.2026): Dynamic Intro/Lobby/Enemie Improvements & more
  * **V4.0 (25.03.2026): CORE SUPREMACY. Full-scale restructuring Tasks 3/3.
-  * * **V4.1 (27.03.2026): TS Road to VS 0.1
-   * **V4.2 (28.03.2026): TS Road to VS 0.2
-   * **V4.3 (28.03.2026): TS Road to VS 0.3
-     * **V4.4 (30.03.2026): TS Road to VS 0.4
-      * **V4.5 (31.03.2026): TS Road to VS 0.5
-       * **V4.6 (1.04.2026): TS Road to VS 0.6
+   * * **V4.1 (27.03.2026): TS Road to VS 0.1
+     * **V4.2 (28.03.2026): TS Road to VS 0.2
+      * **V4.3 (28.03.2026): TS Road to VS 0.3
+        * **V4.4 (30.03.2026): TS Road to VS 0.4
+          * **V4.5 (31.03.2026): TS Road to VS 0.5
+            * **V4.6 (1.04.2026): TS Road to VS 0.6
 
     
 ### 🛠️ TECHNICAL SPECIFICATIONS
