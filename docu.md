@@ -8,7 +8,7 @@
 
 **Latest captured function test (Technical showcases, are'nt Available anymore)
 
-- Latest Project Update 1.04.26 Update V4.6
+- Latest Project Update 01.04.26 Update V4.6
 
 DM me, and we'll see if you meet the standards to become a part of the project DC: sheychx.
 
@@ -25,7 +25,7 @@ Project Core Team
 *High-tier vertical mobility meets Eldritch horror and Industrial brutalism.*
 
 ### ⚙️ CORE ARCHITECTURE
-> **Build ID:** SD Core-V4.5
+> **Build ID:** SD Core-V4.6
 > **Philosophy:** "Solve what others fear, Scale what others can't."
 
 #### 📁 Technical Evolution & Version Log
