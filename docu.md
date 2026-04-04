@@ -12,6 +12,7 @@
 
 - Latest Project Update 02.04.26 Update V4.7
 - Vertical slice completion– deadline: April 28, 2026. (from 31.03.26)
+- Release target: June/26
 
 **Project Core Team** 🏗️ Lead Architect
 📅 Manager 
