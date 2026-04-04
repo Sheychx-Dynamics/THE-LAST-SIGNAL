@@ -5,7 +5,7 @@ The Last Signal - SDX-CORE-V4.7
 ![Engine](https://img.shields.io/badge/ENGINE-UE_5.7.4_-313131?style=flat-square&logo=unrealengine&logoColor=white&labelColor=000000)
 ![Pipeline](https://img.shields.io/badge/PIPELINE-SM6_%2F_DX12-00599C?style=flat-square&labelColor=000000)
 
-**Latest captured function test (Technical showcases aren't available anymore)**
+**Latest captured function test: (Technical showcases aren't available anymore)**
 
 > “Shoot that clanker!”
 
