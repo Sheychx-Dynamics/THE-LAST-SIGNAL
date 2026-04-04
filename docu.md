@@ -12,8 +12,6 @@
 
 - Latest Project Update 02.04.26 Update V4.7
 
-DM me, and we'll see if you meet the standards to become a part of the project DC: sheychx.
-
 **Project Core Team** 🏗️ Lead Architect
 📅 Manager 
 🎮 Game Design
