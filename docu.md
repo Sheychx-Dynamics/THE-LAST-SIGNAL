@@ -6,16 +6,15 @@
 ![Pipeline](https://img.shields.io/badge/PIPELINE-SM6_%2F_DX12-00599C?style=flat-square&labelColor=000000)
 ![Status](https://img.shields.io/badge/AUTHORITY-DOMINANT-8B0000?style=flat-square&labelColor=000000)
 
-**Latest captured function test (Technical showcases, are'nt Available anymore)
+**Latest captured function test (Technical showcases aren't available anymore)**
 
-“Shoot that clanker!”
+> “Shoot that clanker!”
 
 - Latest Project Update 02.04.26 Update V4.7
 
 DM me, and we'll see if you meet the standards to become a part of the project DC: sheychx.
 
-Project Core Team 
-🏗️ Lead Architect
+**Project Core Team** 🏗️ Lead Architect
 📅 Manager 
 🎮 Game Design
 🏃 Animator
@@ -24,7 +23,7 @@ Project Core Team
 📜 Lore Archivist
 
 ## 🎮 PROJECT: "THE LAST SIGNAL"
-*High-tier vertical mobility meets Eldritch horror and Industrial brutalism.*
+*A high-octane third-person wave-based arena shooter. A futuristic machine is trapped in a deadly time loop, forced to survive an annual, neon-lit arena spectacle for human entertainment. High-tier combat meets relentless enemies, driven by dynamic audience hype and an explosive combo system.*
 
 ### ⚙️ CORE ARCHITECTURE
 > **Build ID:** SD Core-V4.7
@@ -44,28 +43,28 @@ Project Core Team
 * **V3.1** (06.03.2026): Drivable Ship + Ocean concept validation.
 * **V3.2** (07.03.2026): Map Update, Ability Tree integration / Expansion.
 * **V3.3** (09.03.2026): Task list Updates, Massive core polishing
-* **V3.4** (09.03.2026): Arena Update* New Spawner*  Traps* Bug fixes |
+* **V3.4** (09.03.2026): Arena Update* New Spawner* Traps* Bug fixes |
 * **V3.5** (10.03.2026): Spikes / Graphic improvements / Tasks 2/3
 * **V3.6** (11.03.2026): Recoil Logic Refinement. Individualized control points for weapon-specific handling. Bug fixes & Task-List-Synchronization.
 * **V3.7** (11.03.2026): overall improvements
 * **V3.8** (13.03.2026): Friendly Ai functions/ Animated Crates(functions)/ enemie Ab./Sort (spiders/traps)
 * **V3.9** (23.03.2026): Dynamic Intro/Lobby/Enemie Improvements & more
- * **V4.0 (25.03.2026): CORE SUPREMACY. Full-scale restructuring Tasks 3/3.
-   * * **V4.1 (27.03.2026): TS Road to VS 0.1
-     * **V4.2 (28.03.2026): TS Road to VS 0.2
-      * **V4.3 (28.03.2026): TS Road to VS 0.3
-        * **V4.4 (30.03.2026): TS Road to VS 0.4
-          * **V4.5 (31.03.2026): TS Road to VS 0.5
-            * **V4.6 (1.04.2026): TS Road to VS 0.6
-              * * **V4.7 (2.04.2026): TS Road to VS 0.7
+* **V4.0** (25.03.2026): CORE SUPREMACY. Full-scale restructuring Tasks 3/3.
+* **V4.1** (27.03.2026): TS Road to VS 0.1
+* **V4.2** (28.03.2026): TS Road to VS 0.2
+* **V4.3** (28.03.2026): TS Road to VS 0.3
+* **V4.4** (30.03.2026): TS Road to VS 0.4
+* **V4.5** (31.03.2026): TS Road to VS 0.5
+* **V4.6** (1.04.2026): TS Road to VS 0.6
+* **V4.7** (2.04.2026): TS Road to VS 0.7
 
-    
 ### 🛠️ TECHNICAL SPECIFICATIONS
 
 Proprietary Translation-Retargeting-Fix for UE 5.7.4 Procedural animations [Technical Insight](https://www.reddit.com/r/UnrealEngine5/comments/1rf66ax/comment/o7hni6p/?context=3)
 * **SD Core Metrics:**
     * Project File Size < 5.0 GB Lean State / (RAW 15GB) 30.03.2026
     * **V4.6 Developer Build:** 2.03 GB
+
 ---
 
 ## 🏗️ PERFORMANCE DATA & BENCHMARKS
@@ -76,10 +75,11 @@ Proprietary Translation-Retargeting-Fix for UE 5.7.4 Procedural animations [Tech
 * **Architecture:** Zen File Manifest & IoStore asset streaming.
 * **OS Compliance:** Windows 11 (25H2) [Build 10.0.26200].
 * **Encryption:** AES-256 HardCrypted asset protection.
+
 ---
 
 ## 🛠️ RECRUITMENT & TECHNICAL AUTHORITY
-strictly limited slots for a disciplined core team. 
+Strictly limited slots for a disciplined core team. 
 
 ### 📢 RECRUITMENT STATUS
 * **Map-Builders:** 1 Slot (Strict constraint)
