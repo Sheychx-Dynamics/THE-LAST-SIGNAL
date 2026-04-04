@@ -1,4 +1,4 @@
-# SDX | TLS SD-CORE-V4.7
+The Last Signal - SDX-CORE-V4.7
 
 ![Team](https://img.shields.io/badge/SDX-10_AGENTS-10B981?style=flat-square&logo=shippable&labelColor=000000)
 ![Version](https://img.shields.io/badge/CORE-V4.7---D32F2F?style=flat-square&labelColor=000000)
