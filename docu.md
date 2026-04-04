@@ -89,8 +89,6 @@ strictly limited slots for a disciplined core team.
 * **Audio:** 1 Slot (SFX)
 * & MORE!
 
-**Contact:** DC @sheychx
-
 ---
 
 ### 🔗 EXTERNAL ASSETS
