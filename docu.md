@@ -81,11 +81,12 @@ Proprietary Translation-Retargeting-Fix for UE 5.7.4 Procedural animations [Tech
 Strictly limited slots for a disciplined core team. 
 
 ### 📢 RECRUITMENT STATUS
-* **Map-Builders:** 1 Slot (Strict constraint)
-* **VFX:** 1 Slot
-* **Infrastructure:** 1 Slot (Discord/Repo)
-* **Debugging:** 2 Slots (QA / Edge-cases)
-* **Audio:** 1 Slot (SFX)
+* **3D Art:** 
+* **Map-Builders:** 
+* **VFX:**
+* **Infrastructure:**
+* **Debugging:**
+* **Audio:**(SFX)
 * & MORE!
 
 ---
