@@ -1,6 +1,6 @@
 The Last Signal V4.7.2
 
-![Team](https://img.shields.io/badge/SDX-15_AGENTS-10B981?style=flat-square&logo=shippable&labelColor=000000)
+![Team](https://img.shields.io/badge/SDX-16_AGENTS-10B981?style=flat-square&logo=shippable&labelColor=000000)
 ![Engine](https://img.shields.io/badge/ENGINE-UE_5.7.4_-313131?style=flat-square&logo=unrealengine&logoColor=white&labelColor=000000)
 ![Pipeline](https://img.shields.io/badge/PIPELINE-SM6_%2F_DX12-00599C?style=flat-square&labelColor=000000)
 
@@ -8,7 +8,7 @@ The Last Signal V4.7.2
 
 > “Shoot that clanker!”
 
-- Latest Project Update 04.04.26 Update V4.7.1
+- Latest Project Update 05.04.26 Update V4.7.2
 - Vertical slice completion– deadline: April 28, 2026. (from 31.03.26)
 - Release target: June/26
 
@@ -62,7 +62,7 @@ The Last Signal V4.7.2
 Proprietary Translation-Retargeting-Fix for UE 5.7.4 Procedural animations [Technical Insight](https://www.reddit.com/r/UnrealEngine5/comments/1rf66ax/comment/o7hni6p/?context=3)
 * **SD Core Metrics:**
     * Project File Size < 5.0 GB Lean State / (RAW 15GB) 30.03.2026
-    * **V4.6 Developer Build:** 2.03 GB
+    * **V4.7 Developer Build:** 2.03 GB
 
 ---
 
@@ -94,4 +94,4 @@ Strictly limited slots for a disciplined core team.
 ### 🔗 EXTERNAL ASSETS
 * [![Reddit Profile](https://img.shields.io/badge/Reddit-Lead--Architect-FF4500?style=flat-square&logo=reddit&logoColor=white)](https://www.reddit.com/user/GuitarSome5123/)
 
-📊 Repository Status Report [V4.7.1][4.4.26]
+📊 Repository Status Report [V4.7.2][5.4.26]
