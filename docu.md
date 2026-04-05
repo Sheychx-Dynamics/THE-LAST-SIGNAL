@@ -1,4 +1,4 @@
-The Last Signal V4.7.1
+The Last Signal V4.7.2
 
 ![Team](https://img.shields.io/badge/SDX-15_AGENTS-10B981?style=flat-square&logo=shippable&labelColor=000000)
 ![Engine](https://img.shields.io/badge/ENGINE-UE_5.7.4_-313131?style=flat-square&logo=unrealengine&logoColor=white&labelColor=000000)
@@ -56,7 +56,7 @@ The Last Signal V4.7.1
 * **V4.6** (1.04.2026): TS Road to VS 0.6
 * **V4.7** (2.04.2026): TS Road to VS 0.7
 * **V4.7.1** (4.04.2026): TS Road to VS 0.7.1
-* 
+* **V4.7.2** (5.04.2026): TS Road to VS 0.7.2
 ### 🛠️ TECHNICAL SPECIFICATIONS
 
 Proprietary Translation-Retargeting-Fix for UE 5.7.4 Procedural animations [Technical Insight](https://www.reddit.com/r/UnrealEngine5/comments/1rf66ax/comment/o7hni6p/?context=3)
