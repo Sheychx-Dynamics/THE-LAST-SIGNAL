@@ -27,7 +27,6 @@
 **Build ID:** `SD Core-V4.7`
 
 ### 🛠️ TECHNICAL SPECIFICATIONS
-* **Animation Core:** Proprietary [Translation-Retargeting-Fix](https://www.reddit.com/r/UnrealEngine5/comments/1rf66ax/comment/o7hni6p/?context=3) for UE 5.7.4 Procedural animations.
 * **SD Core Metrics:**
     * Project File Size: `< 5.0 GB` Lean State / `(RAW 15GB)` As of 30.03.2026
     * **V4.7 Developer Build:** `2.03 GB`
