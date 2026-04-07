@@ -91,22 +91,4 @@
 * ✍️ **Author**
 * 📜 **Lore Archivist**
 
----
-
-## 📢 RECRUITMENT STATUS
-Strictly limited slots for a disciplined core team.
-
-* [ ] **3D Art**
-* [ ] **Map-Builders**
-* [ ] **VFX**
-* [ ] **Infrastructure**
-* [ ] **Debugging**
-* [ ] **Audio (SFX)**
-* [ ] *& MORE!*
-
----
-
-### 🔗 EXTERNAL ASSETS & STATUS
-[![Reddit Profile](https://img.shields.io/badge/Reddit-Lead--Architect-FF4500?style=flat-square&logo=reddit&logoColor=white)](https://www.reddit.com/user/GuitarSome5123/)
-
 📊 **Repository Status Report:** `[V4.7.2] [05.04.26]`
