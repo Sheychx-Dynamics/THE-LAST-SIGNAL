@@ -29,7 +29,7 @@
 ### 🛠️ TECHNICAL SPECIFICATIONS
 * **SD Core Metrics:**
     * Project File Size: `< 5.0 GB` Lean State / `(RAW 15GB)` As of 30.03.2026
-    * **V4.7 Developer Build:** `2.03 GB`
+    * **V4.7 Developer Build:** `2.18 GB`
 
 ### ⚡ Compatibility & Security
 * **Compiler:** .NET 8.0 SDK / MSVC 14.50
